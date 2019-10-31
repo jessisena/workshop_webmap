@@ -1,88 +1,79 @@
 
 # Workshop web map SOTM Latam
 
-## Preparar entorno
+## Set up environment
 
-Tener instalado:
+To be installed:
 - Node.js
 - Git
-- Npm
-- VS Code o similar
+- Yarn or Npm
+- VS Code or similar
 
 ------
 
 ### Steps:
 
-1. Descargar/Clonar repositorio [https://github.com/jessisena/workshop_webmap](https://github.com/jessisena/workshop_webmap)
+1. Download/Clone repo [REPO](http://)
 
-2. Instalar parcel
-```
-npm -g install parcel-bundler
-```
 
-3. Dentro de la carpeta del proyecto clonado, ejecutar:
+
+
+2. Install parcel
 ```
-npm i
+yarn global add parcel-bundler
 ```
 
-4. Ejecutar:
+3. Install dependencies
+```
+yarn
+```
+
+4. Execute command:
 ```
 parcel index.html
 ```
 
-o
+or 
 
 ```
-npm run dev
+yarn dev
 ```
-
-Si todo ha ido bien verás como se abre una página en tu navegador!
-ya tendrás todo preparado para empezar el taller.
 
 -----
 
-## Temario Workshop
+## Workshop
 
 
-1. Añade Leaflet.js al proyecto
+1. Add Leaflet library to the project
+2. Add a Map
+3. Change BaseLayers
+4. Adding a Geojson
+6. Add infowindow
+5. Style geojson
+7. Clustering/HeatMap
 
-2. Crea un Mapa
-    - Crea el objeto mapa
-    - Añade capas base
-    - Añade un control de capas
-
-3. Añade tus datos
-    - Geojson
-    - Infowindow
-    - Estilización
-
-4. Clustering/HeatMap
-
-5. Operaciones con turf.js
-
-9. Publica tu mapa
-
------
-
-## 1. Añadir Leaflet.js al proyecto
+8. Publish your map!
 
 
-[leafletjs.com](https://leafletjs.com/)
+## 1. Add leaflet
+
+
+https://leafletjs.com/
 
 > Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. Weighing just about 38 KB of JS, it has all the mapping features most developers ever need.
 > Leaflet is designed with simplicity, performance and usability in mind.
 
 
-Puedes añadir la librería de 3 formas distintas:
+You can add the library through 3 ways:
 
-1. A través de npm:
+1. Through npm:
 ```
 npm install leaflet
 ```
 
-2. Descargando el paquete (como se explicado en sú página)
+2. Downloading the package (as is explained in the page)
 
-3. Invcluyendo la librería a través de CDN directamente en tu fichero HTML:
+3. Including the library through CDN directly in your HTML:
 
 ```html
 <header>
@@ -94,7 +85,7 @@ npm install leaflet
 </header>
 ```
 
-## 2. Crea un mapa
+## 2. Add a map
 
 Para añadir un mapa primero tenemos que crear en nuestro fichero index.html un elemento div con un id:
 
@@ -114,14 +105,11 @@ Y en app.css:
 }
 ```
 
-Ahora crearemos el objeto mapa usando leaflet. Sigue los siguientes pasos:
+Ahora crearemos el objeto mapa usando leaflet. Sigue los sieguientes pasos:
 
 1. En index.js añade:
 
-```javascript
   var mymap = L.map("mymap").setView([-25.301, -57.636], 12);
-```
-*Estamos diciendole al mapa que se centro en las coordenadas de Asunción, y con nivel de zoom 12*
 
 
 2. Añade una capa base:
@@ -139,9 +127,7 @@ List of tile servers based on OSM:
 [Tile_servers](https://wiki.openstreetmap.org/wiki/Tile_servers)
 
 
-3.  Prueba a añadir otras url's de capas base distintas, y observa los cambios en el visor:
-
-*Ejemplos:*
+3.  Añades otras capas base
 
 https://api.tiles.mapbox.com/v4/mapbox.streets/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw
 
@@ -149,11 +135,7 @@ https://api.tiles.mapbox.com/v4/mapbox.streets/{z}/{x}/{y}.png?access_token=pk.e
 https://api.tiles.mapbox.com/v4/mapbox.light/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw
 
 
-4. Añade un control de capas:
-En un mismo mapa podemos tener diferentes capas base añadidas y esocger cuál visualizar usando un control de capas.
-Añade ahora un control de capas a tu mapa:
-
-*Nota: habrá que modificar ligeramente el código que ya tenás*
+4. Añadir un control de capas:
 
 
 ```javascript
@@ -184,11 +166,9 @@ Añade ahora un control de capas a tu mapa:
 
 ```
 
-## Añade tus datos:
+## Add your own data
 
-Usaremos un [GEOJSON](https://geojson.org/) de ejemplo con nuestros datos.
-
-*TIP: Herramienta online de conversor de formatos de ficheros [CONVERTBOX]()*
+Añadir un [GEOJSON](https://geojson.org/).
 
 
 ```javascript
@@ -204,7 +184,7 @@ puntosLayer.addTo(mymap);
 ```
 
 
-Ahora podemos añadir una infowindow a cada uno de los puntos del mapa:
+Añadir infowindow
 
 ```javascript
 
@@ -218,11 +198,10 @@ puntosLayer.addTo(mymap);
 
 ```
 
-En la infowindow se añade HTML, y se mostrará como tal. Por tanto, podemos añadir clases CSS a ese HTML para estilizarlo:
+Estilizarla añadiendo una clase:
 
 ```css
 
-/* app.css */
 .infowindow {
   padding: 5px;
   background-color: #dedede;
@@ -239,7 +218,7 @@ En la infowindow se añade HTML, y se mostrará como tal. Por tanto, podemos añ
 ```
 
 
-Añadiremos ahora un GEOJSON con polígonos:
+Añadir capa de poligonos
 
 
 ```javascript
@@ -255,7 +234,7 @@ barriosLayer.addTo(mymap);
 ```
 
 
-Ahora añadiremos ambas capas, puntos y poligonos, a nuestro control de capas:
+Añadir ambas capas, puntos y poligonos, al control:
 
 ```javascript
 
@@ -265,22 +244,19 @@ myControl.addOverlay(puntosLayer);
 ```
 
 
-## Estilizar GEOJSON
+## Estilizar geojson
 
-Podemos personalizar la imagen de cada uno de los puntos, con una imagen propia:
+Añadir una imagen al punto:
 
 ```javascript
 import GEOCHICAS from './images/geochicas.png'
 
 
-// creamos el icono con la imagen
   const myIcon = L.icon({
     iconUrl: GEOCHICAS,
     iconSize: [50, 40]
   });
 
-// A la vez que vamos añadiendo cada punto al mapa
-// le asociamos el icono que hemos creado.
  const puntosLayer = L.geoJSON(puntos, {
       pointToLayer: function (feature, latlng) {
         return  L.marker(latlng, {icon: myIcon});
@@ -288,7 +264,7 @@ import GEOCHICAS from './images/geochicas.png'
   })...
 ```
 
-También podemos estilizar los poligonos, cambiando su color, opacidad, etc:
+Estilizar poligonos:
 
 ```javascript
   const barriosLayer = L.geoJSON(barrios, {
