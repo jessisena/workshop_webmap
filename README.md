@@ -398,12 +398,14 @@ git push -u origin master
 
 Ve a _Settings_, y hacia el final de la página verás:
 
-![](https://raw.githubusercontent.com/jessisena/workshop_webmap/master/github-pages.png)
+![](https://raw.githubusercontent.com/jessisena/workshop_webmap/master/github-pages.png=250x)
 
 
-una vez seleccionado aparecerá la URL de tu visor.
+Selecciona **master branch /docs folder** 
 
-CONSEGUIDO! 
+Una vez seleccionado aparecerá la URL de tu visor. CONSEGUIDO!
+
+
 ![GIF](https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif)
 
 -------
