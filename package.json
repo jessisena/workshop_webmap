@@ -2,11 +2,11 @@
   "name": "taller_webmap",
   "version": "1.0.0",
   "description": "Taller creacion de un webmap sencillo",
-  "main": "index.html",
+  "main": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "parcel index.html --open",
-    "build": "parcel build index.html"
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html --out-dir docs --public-url ./"
   },
   "author": "Jessica Sena",
   "license": "MIT",

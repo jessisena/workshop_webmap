@@ -1,0 +1,1570 @@
+{
+
+    "type": "FeatureCollection",
+    "features": [{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -3.7151545286179,
+        40.41610592478
+    ]
+},"properties":{
+    "title": "Esto es un nombre de prueba",
+    "3263": "Esto es un nombre de prueba",
+    "3268": "Esta es una descripción de prueba",
+    "3279": "Calle dirección de prueba",
+    "3265": "Madrid",
+    "category": "Espa\u0026ntilde;a",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/fe5741e01fa62e397fc2014806074867.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "España",
+    "3264": "-3.7151545286178593 40.416105924779885 18",
+    "3267": "Colaborativo y público",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Formación\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Otra temática de prueba",
+    "3284": "Aforo para 20 personas. Espacio abierto",
+    "3277": "Festival de prueba\u003Cbr\u003EFestival de prueba 2",
+    "3285": "Piso de madera\u003Cbr\u003EEquipo de iluminación",
+    "3286": "",
+    "3287": "Observaciones técnicas extra",
+    "3288": "Espacio interno con capacidad para 15 personas sentadas",
+    "3269": "Alquilado",
+    "3289": "d51d46e92d4fb86ee2736d69377d317f.jpg",
+    "3290": "https:\/\/youtube.com\/prueba",
+    "3305": "https:\/\/prueba.com",
+    "3291": "htpps:\/\/facebook.com\/prueba",
+    "3292": "https:\/\/instagram.com\/prueba",
+    "3293": "Nombre de contacto principal ",
+    "3295": "Contacto secundario de haberlo",
+    "3296": "",
+    "3294": "",
+    "3299": "Programadora",
+    "3298": "Directora",
+    "3272": "prueba2@prueba.org",
+    "3297": "prueba@prueba.org",
+    "3491": "",
+    "localizacion": "-3.7151545286178593 40.416105924779885 18 ",
+    "control": "0497e9d18dee4365e7cf2994ed96a19f",
+    "latLng": [
+        -3.7151545286179,
+        40.41610592478
+    ],
+    "time": 1554920995,
+    "name": 359392978,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/d51d46e92d4fb86ee2736d69377d317f.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003EEsto es un nombre de prueba\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:prueba2@prueba.org\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ENombre de contacto principal\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ECalle dirección de prueba\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/https:\/\/prueba.com\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003Ehttps:\/\/prueba.com\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i0497e9d18dee4365e7cf2994ed96a19f\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -57.644429337233,
+        -25.279543494528
+    ]
+},"properties":{
+    "title": "La Caosfera",
+    "3263": "La Caosfera",
+    "3268": "La Caosfera es un espacio multidisciplinario donde se encuentran las artes escénicas, la cocina y los diferentes saberes de colaboradores ocasionales. Conviven bailarines, actores, coreógraf@s, músic@s y cociner@s y gestores culturales que ayudan a autogestionar el espacio por medio de talleres, clases, presentaciones, festivales, cenas temáticas, conciertos y ferias abiertas. Contamos con un espacio multiusos (la caja negra), un espacio dedicado a la danza y movimiento (Crear en Libertad) y un patio con escenario a cielo abierto.",
+    "3279": "General Díaz 1163 entre Hernandarias y Don Bosco",
+    "3265": "Asunción",
+    "category": "Paraguay",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/5aaaf41fcc24f91f99a616ff17ea2b03.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Paraguay",
+    "3264": "-57.64442933723332 -25.27954349452757 15",
+    "3267": "Colaborativo",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022Cine\\\u0022,\\\u0022Circo\\\u0022,\\\u0022Formación\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Cocina vegana, teatro aéreo, ferias y otros.",
+    "3284": "Dos espacios cerrados de 100 mt2 cada uno, patio de 200 mt2\u003Cbr\u003ECondiciones de Escenario: tipo de piso, equipos disponibles de luces, sonido, proyección y\/ otros : \u003Cbr\u003ERider técnico: \u003Cbr\u003E\u003Cbr\u003E\u003Cbr\u003E",
+    "3277": "Crear en Libertad “Encuentro Internacional de Danza y Artes Contemporáneas”.",
+    "3285": "Espacio 1: El escenario es de 10 mt de ancho por 7 mt de fondo.\u003Cbr\u003EAire libre: piso de tierra.",
+    "3286": "",
+    "3287": "Contamos con Conexión eléctrica trifásica en todos los espacios, Proyector, 2 luces Led de Colores, 2 reflectores de 1000 watt, parlantes, 4 micrófonos inalámbricos.",
+    "3288": "Espacio 2: Espacio de 10 mt x 10 mt. Con altura de 6 mt. Paredes negras para teatro aéreo.\u003Cbr\u003EEspacio 3: Espacio de 5 mt x 25 mt. Con piso para danza de 5 mt x 15 mt.",
+    "3269": "Alquiler y a porcentaje",
+    "3289": "ed7a545906580ea6ed6d346d94da9587.jpeg",
+    "3290": "",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/lacaosferaindomitadezizekysusetceteras\/",
+    "3292": "@lacaosfera",
+    "3293": "Mariela Oteiza",
+    "3295": "Sandra Bosch",
+    "3296": 595971147474,
+    "3294": 56999559229,
+    "3299": "Administradora",
+    "3298": "Gestora",
+    "3272": "boscholias@gmail.com",
+    "3297": "mariela.oteiza@gmail.com",
+    "3491": "",
+    "localizacion": "-57.64442933723332 -25.27954349452757 15 ",
+    "control": "0fe884e04e0dedf323d25da3953b9e67",
+    "latLng": [
+        -57.644429337233,
+        -25.279543494528
+    ],
+    "time": 1553887662,
+    "name": 719792295,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/ed7a545906580ea6ed6d346d94da9587.jpeg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ELa Caosfera\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:boscholias@gmail.com\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EMariela Oteiza\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EGeneral Díaz 1163 entre Hernandarias y Don Bosco\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i0fe884e04e0dedf323d25da3953b9e67\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -68.1235076,
+        -16.5055701
+    ]
+},"properties":{
+    "title": "C\u0026uacute;pula de adobe Minke",
+    "3263": "Cúpula de adobe Minke",
+    "3268": "Un espacio Artístico circular en forma de “Iglú” con una acústica óptima para los distintos géneros artísticos que utilizan sonido.",
+    "3279": "Parque Urbano Central",
+    "3265": "La Paz",
+    "category": "Bolivia",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/4fff87a12af4add80e0ea7808dcb5824.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Bolivia",
+    "3264": "-68.1235076 -16.5055701 16",
+    "3267": "otro",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Performances",
+    "3284": "Espacio cerrado con capacidad para 70 espectadores",
+    "3277": "Según programación",
+    "3285": "2 Luces led, 2 Prismas, 4 Tarimas de 1.10m x1.50m x 0.27cm, 1 Estufa salamandra con garrafa, 1 consola de sonido, 1 parlante, 1 trípode para parlante, 3 mesas irregulares, 1 mesa redonda, 1 mesa cuadrada de plástico, 1 mesa cuadrada de metal",
+    "3286": "",
+    "3287": "",
+    "3288": "",
+    "3269": "Alquilado",
+    "3289": "",
+    "3290": "",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/teatrosmunicipaleslapaz\/",
+    "3292": "",
+    "3293": "Mabel Franco Ortega",
+    "3295": "",
+    "3296": "",
+    "3294": 59122406133,
+    "3299": "",
+    "3298": "Jefa de la Unidad de Espacios Escénicos Municipales",
+    "3272": "",
+    "3297": "mabel.franco@lapaz.bo",
+    "3491": "",
+    "localizacion": "-68.1235076 -16.5055701 16 ",
+    "control": "117b349f6c8bf29a4f52eb2da1ebe3a4",
+    "latLng": [
+        -68.1235076,
+        -16.5055701
+    ],
+    "time": 1560549464,
+    "name": 433624742,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ECúpula de adobe Minke\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EMabel Franco Ortega\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EParque Urbano Central\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i117b349f6c8bf29a4f52eb2da1ebe3a4\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -57.638135994785,
+        -25.278115562805
+    ]
+},"properties":{
+    "title": "Centro Cultural de la Ciudad Carlos Colombino\/Manzana de la Rivera",
+    "3263": "Centro Cultural de la Ciudad Carlos Colombino\/Manzana de la Rivera",
+    "3268": "Espacio para encuentros culturales, recreativos y de reflexión, el Centro Cultural de la Ciudad, que desde el año 2013 lleva también el nombre de “Carlos Colombino”, es una institución dependiente de la Dirección de Cultura y Turismo de la Municipalidad de Asunción. Funciona en el espacio denominado \\\u0022Manzana de la Rivera\\\u0022, abarcando las calles Ayolas, El Paraguayo Independiente, O\\\u0027Leary y Benjamín Constant.",
+    "3279": "Ayolas 129 c\/ El Paraguayo Independiente",
+    "3265": "Asuncion",
+    "category": "Paraguay",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/5aaaf41fcc24f91f99a616ff17ea2b03.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Paraguay",
+    "3264": "-57.63813599478454 -25.278115562804846 17",
+    "3267": "Público",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Cine\\\u0022,\\\u0022Formación\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Biblioteca y actividades literarias",
+    "3284": "Salón de usos múltiples “Federico García Lorca”\u003Cbr\u003EEspacio cerrado con capacidad para 200 personas, un escenario móvil de 10 x 7 m., aproximadamente, equipamiento de luces y disponibilidad de técnicos.\u003Cbr\u003E\u003Cbr\u003EAuditorio “Ruy Díaz de Guzmán”\u003Cbr\u003EEspacio cerrado con capacidad para 100 personas, un escenario de 7 x 5 m., aproximadamente, sonidos y luces básicas y disponibilidad de técnicos.\u003Cbr\u003E\u003Cbr\u003E",
+    "3277": "Es una de las sedes de la Semana del Teatro, organizada cada año por el Centro Paraguayo del Teatro desde 1980. Igualmente, es una de las instituciones que apoya el Festival Crear en Libertad, de Danza y Performance.",
+    "3285": "Salón de usos múltiples “Federico García Lorca”\u003Cbr\u003ETipo de piso: Escenario móvil compuesto por tarimas de madera y metal.\u003Cbr\u003ECuenta con equipos básicos de luces y equipos de sonido que próximamente serán instalados.\u003Cbr\u003ECuenta con pantalla manual.\u003Cbr\u003ECuenta con una consola de luces en el segundo piso, desde donde se operan las luces fijas.\u003Cbr\u003EEn planta baja cuenta con conexiones para instrumentos, parlantes, etc.\u003Cbr\u003E\u003Cbr\u003EAuditorio “Ruy Díaz de Guzmán”\u003Cbr\u003ETipo de piso: Madera parquet.\u003Cbr\u003ECuenta con equipos básicos de luces y sonido.\u003Cbr\u003EAsimismo, cuenta con pantalla automática.\u003Cbr\u003ERider técnico\u003Cbr\u003ELuces fijas.\u003Cbr\u003ENo cuenta con consola de sonido ni de luces.",
+    "3286": "747eff0872f0f76798c378fab5d3a34e.jpg",
+    "3287": "Rider incluido en condiciones de escenario",
+    "3288": "Descrito en condiciones de escenario",
+    "3269": "Alquilado",
+    "3289": "",
+    "3290": "https:\/\/www.youtube.com\/user\/culturaasuncion\/videos",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/CentroCulturalManzanadelaRivera\/",
+    "3292": "",
+    "3293": "Lic. Claudia Díaz",
+    "3295": "Lic. Luis Ocampos Pompa",
+    "3296": 59521492524,
+    "3294": 59521492524,
+    "3299": "Secretaria de la Dirección",
+    "3298": "Coordinador de espacios",
+    "3272": "secretaria.manzana.rivera@gmail.com",
+    "3297": "espacios.manzana.rivera@gmail.com",
+    "3491": "",
+    "localizacion": "-57.63813599478454 -25.278115562804846 17 ",
+    "control": "145b0f1408906965703bb9b900a60a96",
+    "latLng": [
+        -57.638135994785,
+        -25.278115562805
+    ],
+    "time": 1553473026,
+    "name": 1621339556,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ECentro Cultural de la Ciudad Carlos Colombino\/Manzana de la Rivera\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:secretaria.manzana.rivera@gmail.com\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ELic. Claudia Díaz\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EAyolas 129 c\/ El Paraguayo Independiente\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i145b0f1408906965703bb9b900a60a96\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -55.961932260543,
+        -27.395070984888
+    ]
+},"properties":{
+    "title": "Parque del Conocimiento",
+    "3263": "Parque del Conocimiento",
+    "3268": "El Parque del Conocimiento es uno de los mayores proyectos culturales del país, articulado en una SAPEM (sociedad anónima pública de participación estatal mayoritaria)\u003Cbr\u003ESu imponente infraestructura llama la atención desde varios kilómetros y maravilla a visitantes de todo el mundo. Comprende un predio de más de 25 hectáreas, donde las especies autóctonas y el lago le confieren un espectacular marco natural. En este parque podemos encontrar ocho edificios en los cuales se distribuyen las actividades. Un predio ferial compuesto por tres pabellones de más de 5.000 m2 cada uno; un Centro de Convenciones con un Auditorio para 700 personas, un completo buffet para más de 100 personas. Un Observatorio Astronómico y un Cine IMAX 3D de última tecnología.\u003Cbr\u003E\u003Cbr\u003ECon cinco pisos y dos subsuelos, el edificio central contiene cinco plantas destinadas, al Centro de Arte: (ala oeste), a la Biblioteca Pública de las Misiones (ala este) y al Teatro Lírico y de Prosa (centro). En los subsuelos se encuentran los talleres de arte, utilería, escenografía y vestuarios, resguardo y reparación de libros y pinturas. Además cuenta con distintas salas de ensayo para música y danza.",
+    "3279": "Av. Ulises López, N3300",
+    "3265": "Posadas",
+    "category": "Argentina",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/50c39dbcfbab58a6d83f9f1d4ae10e13.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Argentina",
+    "3264": "-55.96193226054311 -27.39507098488803 15",
+    "3267": "Colaborativo",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022Cine\\\u0022,\\\u0022Circo\\\u0022,\\\u0022Formación\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "biblioteca, infancia y juventud",
+    "3284": "Teatro Lírico\u003Cbr\u003ETeatro de Prosa\u003Cbr\u003E",
+    "3277": "Programación Anual,\u003Cbr\u003EFestival Tutú Marambá (Infancia y juventud)\u003Cbr\u003E\u003Cbr\u003EActividades permanentes: Ballet estable y escuela de ballet\u003Cbr\u003ECoro estable y una orquesta estable\u003Cbr\u003EÁrea de Teatro, programación general\u003Cbr\u003EÁrea de Desarrollo Cultural, grupo de bailarines de danza contemporánea\u003Cbr\u003EÁrea de Infancia y Juventud\u003Cbr\u003EBiblioteca y editorial Las Misiones\u003Cbr\u003ETeatro Lírico, Teatro de Prosa,\u003Cbr\u003ECentro de Convenciones\u003Cbr\u003EObservatorio Astronómico de Las Misiones\u003Cbr\u003ECine IMAX\u003Cbr\u003EGalpones feriales 3\u003Cbr\u003EÁrea de formación y extensión",
+    "3285": "En documento adjunto",
+    "3286": "d2ca1c9a9138369feda898207cea020f.pdf",
+    "3287": "En PDF adjunto",
+    "3288": "En PDF adjunto",
+    "3269": "Los espacios en general son gratuitos pero también se pueden alquilar. No van a porcentaje y este año no se cuenta con presupuesto para caché.",
+    "3289": "",
+    "3290": "",
+    "3305": "https:\/\/www.parquedelconocimiento.com\/",
+    "3291": "https:\/\/www.facebook.com\/parquedelconocimiento\/",
+    "3292": "@parquedelconocimiento",
+    "3293": "Contacto Institucional",
+    "3295": "Contacto comercial",
+    "3296": 3764597508,
+    "3294": 3764597565,
+    "3299": "",
+    "3298": "",
+    "3272": "",
+    "3297": "comercial@parquedelconocimiento.com",
+    "3491": "",
+    "localizacion": "-55.96193226054311 -27.39507098488803 15 ",
+    "control": "319a6bae1435e710137b357db7f93867",
+    "latLng": [
+        -55.961932260543,
+        -27.395070984888
+    ],
+    "time": 1560543965,
+    "name": 352646028,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003EParque del Conocimiento\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EContacto Institucional\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EAv. Ulises López, N3300\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/https:\/\/www.parquedelconocimiento.com\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003Ehttps:\/\/www.parquedelconocimiento.com\/\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i319a6bae1435e710137b357db7f93867\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -68.127322839573,
+        -16.507623869492
+    ]
+},"properties":{
+    "title": "Cine Teatro municipal 6 de Agosto",
+    "3263": "Cine Teatro municipal 6 de Agosto",
+    "3268": "Antiguo cine recuperado por el municipio de La Paz. Cumple funciones como sala de proyecciones audiovisuales y como espacio escénico.",
+    "3279": "Centro de la ciudad. Av. 6 de Agosto.",
+    "3265": "La Paz",
+    "category": "Bolivia",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/4fff87a12af4add80e0ea7808dcb5824.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Bolivia",
+    "3264": "-68.12732283957304 -16.507623869491535 16",
+    "3267": "Público",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022Cine\\\u0022]]}",
+    "3283": "",
+    "3284": "Espacio cerrado con capacidad para 400 espectadores",
+    "3277": " Festival Internacional de Jazz-Festijazz (anual).\u003Cbr\u003EFestival Internacional de Blues-Festiblues Bolivia (anual)\u003Cbr\u003EFestival Kolibrí de audiovisuales internacionales para la niñez y la juventud.\u003Cbr\u003EBolivia Lab, festival de cine independiente internacional.",
+    "3285": "Piso de madera\u003Cbr\u003ETarima redonda de dos piezas\u003Cbr\u003ETarimas de madera de 2 m. x 1 m. x 20 cm. de alto (5)\u003Cbr\u003ETarimas de madera de 1 m. x 1 m. x 20 cm. de alto (5)\u003Cbr\u003ESillas de madera (6)\u003Cbr\u003ECámara negra\u003Cbr\u003EEcram blanco (fijo)\u003Cbr\u003ECamerinos (2 grupales y 2 individuales) \u003Cbr\u003EPantalla\u003Cbr\u003EProyectora ",
+    "3286": "4ce2140649fec9ca84bb593f0e2dde45.png",
+    "3287": "",
+    "3288": "",
+    "3269": "Alquilado",
+    "3289": "9a6727342aae9d14d48992ecd49bbde0.png",
+    "3290": "",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/teatrosmunicipaleslapaz\/",
+    "3292": "",
+    "3293": "Mabel Franco Ortega  y 591-70519310. ",
+    "3295": "Javier Badani",
+    "3296": 59177211667,
+    "3294": 59122406133,
+    "3299": "Encargado de la sala",
+    "3298": "Jefa de la Unidad de Espacios Escénicos Municipales",
+    "3272": "javier.badani@lapaz.bo",
+    "3297": "mabel.franco@lapaz.bo",
+    "3491": "",
+    "localizacion": "-68.12732283957304 -16.507623869491535 16 ",
+    "control": "336f621ba3b1e439bb18718b449cc5e5",
+    "latLng": [
+        -68.127322839573,
+        -16.507623869492
+    ],
+    "time": 1560548963,
+    "name": 1544657409,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/9a6727342aae9d14d48992ecd49bbde0.png\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ECine Teatro municipal 6 de Agosto\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:javier.badani@lapaz.bo\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EMabel Franco Ortega  y 591-70519310.\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ECentro de la ciudad. Av. 6 de Agosto.\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i336f621ba3b1e439bb18718b449cc5e5\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -55.891107369892,
+        -27.378897
+    ]
+},"properties":{
+    "title": "Espacio Reciclado",
+    "3263": "Espacio Reciclado",
+    "3268": "Espacio Reciclado, se encuentra ubicado en el Pasaje Misiones N°3040 de la ciudad de Posadas. Habiendo sido un enorme galpón de un taller mecánico, se decide transformar  en una sala de ensayo, de arte y teatro.\u003Cbr\u003EUbicado a pocas cuadras del microcentro de la ciudad aparece como un espacio alternativo que incluye al barrio propio sin quedar lejos del circuito de salas de teatro. Éste galpón es propiedad de la familia de “Cachú” Orellano, uno de los integrantes del equipo de gestión, que cede el espacio en comodato con éste fin.\u003Cbr\u003EEspacio Reciclado comienza a funcionar  el 22 de julio de 2006 sosteniéndose de manera autogestiva hasta la fecha.\u003Cbr\u003E",
+    "3279": "Pasaje Misiones N°3040",
+    "3265": "Posadas",
+    "category": "Argentina",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/50c39dbcfbab58a6d83f9f1d4ae10e13.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Argentina",
+    "3264": "-55.8911073698923 -27.378897 16",
+    "3267": "Colaborativo",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022Cine\\\u0022,\\\u0022Circo\\\u0022,\\\u0022Formación\\\u0022]]}",
+    "3283": "",
+    "3284": "Espacio cerrado: galpón\u003Cbr\u003ECon gradas y butacas móviles, con una capacidad de 80 espectadores sentados (con posibilidad de ampliar).                                                         Se construyeron gradas, camarines, entrepisos",
+    "3277": "De la idea a la puesta””, Festival de Teatro de adolescentes,  Circuito Nacional, Fiestas Regionales, etc.",
+    "3285": "La sala es no convencional, el escenario y parrilla de luces son móviles, pudiendo presentarse propuestas “a la italiana” como también semicirculares, circulares, con escenarios en distintos frentes, etc. \u003Cbr\u003ECuenta con equipo de iluminación y sonido.",
+    "3286": "f04e24370a0a8bfc1bd0182556c20e07.pdf",
+    "3287": "",
+    "3288": "",
+    "3269": "Caché",
+    "3289": "e71ed4eb2e8ec77b12461b8375ce7650.jpg",
+    "3290": "",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/EspacioReciclado\/",
+    "3292": "",
+    "3293": "Cachu Orellano",
+    "3295": "Carolina Gularte",
+    "3296": "",
+    "3294": "",
+    "3299": "",
+    "3298": "",
+    "3272": "espacioreciclado@gmail.com",
+    "3297": "",
+    "3491": "",
+    "localizacion": "-55.8911073698923 -27.378897 16 ",
+    "control": "37421ee4b735d1e1ae6d058cd7c46489",
+    "latLng": [
+        -55.891107369892,
+        -27.378897
+    ],
+    "time": 1553786442,
+    "name": 428818344,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/e71ed4eb2e8ec77b12461b8375ce7650.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003EEspacio Reciclado\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:espacioreciclado@gmail.com\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ECachu Orellano\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EPasaje Misiones N°3040\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i37421ee4b735d1e1ae6d058cd7c46489\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -57.641436746344,
+        -25.280077372964
+    ]
+},"properties":{
+    "title": "Espacio E",
+    "3263": "Espacio E",
+    "3268": "Centro Cultural enfocado a la formación, la investigación y producción en las artes escénicas, contribuyendo a la vez en desarrollar una cultura de la conciencia corporal, el cuidado de si, y la calidad de vida.",
+    "3279": "Estrella 977 e\/Colon y Montevideo",
+    "3265": "Asunción",
+    "category": "Paraguay",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/5aaaf41fcc24f91f99a616ff17ea2b03.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Paraguay",
+    "3264": "-57.64143674634398 -25.280077372963525 16",
+    "3267": "Colaborativo",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Formación\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Música",
+    "3284": "Espacio cerrado y abierto\u003Cbr\u003E\u003Cbr\u003ECondiciones de Escenario:\u003Cbr\u003E\u003Cbr\u003Eo ",
+    "3277": "Actividades todo el año como: Talleres, Obras teatrales, Ensayos y Producciones propias, en las disciplinas de Teatro, Danza y Música",
+    "3285": "2 Salas principales, una con piso de madera y otra de losa.\u003Cbr\u003E1 Sala de reunión\u003Cbr\u003E1 espacio para recibir a residentes artísticos\u003Cbr\u003E1 Sala Multiuso\u003Cbr\u003EPatio interno\u003Cbr\u003EButacas y servicios básicos.",
+    "3286": "",
+    "3287": "",
+    "3288": "",
+    "3269": "Alquilado",
+    "3289": "7258f2a82dee7a5b281bddefd443af6f.jpg",
+    "3290": "",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/arte.espacio.e",
+    "3292": "@espacio_e_oficial",
+    "3293": "Edith Correa",
+    "3295": "",
+    "3296": "",
+    "3294": 971373128,
+    "3299": "Directora",
+    "3298": "",
+    "3272": "edith.claudine@gmail.com",
+    "3297": "espacioe977@gmail.com",
+    "3491": "",
+    "localizacion": "-57.64143674634398 -25.280077372963525 16 ",
+    "control": "394562aca761f89fd63744a42fa803b3",
+    "latLng": [
+        -57.641436746344,
+        -25.280077372964
+    ],
+    "time": 1553480098,
+    "name": 198199304,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/7258f2a82dee7a5b281bddefd443af6f.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003EEspacio E\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:edith.claudine@gmail.com\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EEdith Correa\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EEstrella 977 e\/Colon y Montevideo\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i394562aca761f89fd63744a42fa803b3\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -68.134967512451,
+        -16.493597642766
+    ]
+},"properties":{
+    "title": "Teatro municipal Alberto Saavedra Perez",
+    "3263": "Teatro municipal Alberto Saavedra Perez",
+    "3268": "Principal escenario de la ciudad de La Paz, en funcionamiento desde 1845. Estilo isabelino.",
+    "3279": "Casco central. Calle Genaro Sanjinés e Indaburo.",
+    "3265": "La Paz",
+    "category": "Bolivia",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/4fff87a12af4add80e0ea7808dcb5824.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Bolivia",
+    "3264": "-68.13496751245113 -16.493597642765703 18",
+    "3267": "Público",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Performances",
+    "3284": "Espacio cerrado con capacidad para 600 espectadores distribuidos en platea, palco, anfiteatro y galería.",
+    "3277": "Festival\u003Cbr\u003EInternacional de Teatro, bienal, años pares. Encuentro Escénica, anual, presenta lo mejor del teatro, obras finalistas del concurso municipal Raúl Salmón de la Barra.\u003Cbr\u003EFestivales internacionales de Danza Folklórica: La Paz Maravillosa y La Danza integradora de Culturas, anuales.",
+    "3285": "Piso de madera\u003Cbr\u003ETarima circular (2mts. diámetro x 40 cm. alto) 4\u003Cbr\u003ETarimas de madera de 2 m. x 1 m. x 20 cm. de alto 10\u003Cbr\u003ETarimas de madera de 1 m. x 1 m. x 20 cm. de alto 10\u003Cbr\u003ECámara negra 2\u003Cbr\u003EEcram blanco (fijo) 1\u003Cbr\u003EConcha acústica 1\u003Cbr\u003ESillas talladas de madera tapiz verde (para músicos) 6\u003Cbr\u003ESillas de fórmica con estructura metálica de color amarillo 36\u003Cbr\u003ETapete de ballet (sólo zapatillas de ballet; no se usa para teatro) 1\u003Cbr\u003ECamerinos ",
+    "3286": "ee201eaac2ff377768f5ff2014a73dc2.pdf",
+    "3287": "",
+    "3288": "No",
+    "3269": "Alquilado",
+    "3289": "72fbc1b5113fa1aef0b2575f13b07c2b.png",
+    "3290": "",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/teatrosmunicipaleslapaz\/",
+    "3292": "",
+    "3293": "Mabel Franco Ortega",
+    "3295": "",
+    "3296": "",
+    "3294": 59122406133,
+    "3299": "",
+    "3298": "Jefa de la Unidad de Espacios Escénicos Municipales,",
+    "3272": "",
+    "3297": "",
+    "3491": "",
+    "localizacion": "-68.13496751245113 -16.493597642765703 18 ",
+    "control": "4359f106d17b4ec60f1ef2d00e8037f8",
+    "latLng": [
+        -68.134967512451,
+        -16.493597642766
+    ],
+    "time": 1560545858,
+    "name": 749122623,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/72fbc1b5113fa1aef0b2575f13b07c2b.png\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ETeatro municipal Alberto Saavedra Perez\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EMabel Franco Ortega\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ECasco central. Calle Genaro Sanjinés e Indaburo.\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i4359f106d17b4ec60f1ef2d00e8037f8\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -57.624492812902,
+        -25.28795059439
+    ]
+},"properties":{
+    "title": "Nhi-Mu",
+    "3263": "Nhi-Mu",
+    "3268": "El grupo de teatro aéreo Nhi-Mu desde sus inicios en el año 1997 mantuvo como parte esencial de su misión, la de ocupar lugares, en ese entonces, no convencionales para sus visión teatral. Es así que se instala en la escena paraguaya el Galpón Alternativo de Nhi-Mu; un espacio en el cual se realizan no solo espectaculos aereos del grupo sino también, obras de teatro, teatro negro de objetos, talleres de capacitación para actores, talleres circenses y se imparten talleres de teatro aéreo.\u003Cbr\u003EEl espacio a su vez sirve para solidificar las relaciones con otras disciplinas como la danza, la música, el cine y las artes visuales. Se realizan ferias, festivales y sirve como espacio de creación a todas ellas y a grupos independientes que buscan realizar sus espectáculos bajo otro tipo de estructuras espaciales. ",
+    "3279": "25 de mayo 1087 casi Brasil",
+    "3265": "Asunción",
+    "category": "Paraguay",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/5aaaf41fcc24f91f99a616ff17ea2b03.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Paraguay",
+    "3264": "-57.62449281290174 -25.28795059439005 16",
+    "3267": "Independiente",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Teatro\\\u0022,\\\u0022Circo\\\u0022,\\\u0022Formación\\\u0022]]}",
+    "3283": "Especializado en teatro aéreo y formación",
+    "3284": "Galpón. Aforo para las características del teatro aéreo sin sillas: 250 personas. Con sillas: 200 personas\u003Cbr\u003E\u003Cbr\u003E",
+    "3277": "Talleres aéreos: tela acrobática, trapecio, teatro aéreo, actuación \u003Cbr\u003E  Obras de teatro aéreo \u003Cbr\u003E  Obras de teatro, obras de teatro negro\u003Cbr\u003E  Conciertos musicales \u003Cbr\u003E  Ferias artísticas",
+    "3285": "El espacio es un galpón de 13 metros de ancho por 20 metros de largo, la altura es de 7 metros. \u003Cbr\u003ECuenta con un sistema de sonido básico para ensayos y pequeñas producciones. Cuenta con luces de trabajo y algunas luces para presentaciones de taller. ",
+    "3286": "",
+    "3287": "",
+    "3288": "",
+    "3269": "Abierto a negociación por proyecto",
+    "3289": "2de095850709fe2d770b2e10b0205fe3.jpg",
+    "3290": "https:\/\/www.youtube.com\/watch?v=7Kexif28b8w",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/nhimuteatro\/",
+    "3292": "@nhimuteatro",
+    "3293": "Selva Fox",
+    "3295": "Fatima Fernandez",
+    "3296": 595991937416,
+    "3294": 595981884398,
+    "3299": "Directora del grupo Nhi-M",
+    "3298": "Coordinadora Gral del grupo Nhi-Mu",
+    "3272": "",
+    "3297": "fatimafernandezcenturion@gmail.com",
+    "3491": "",
+    "localizacion": "-57.62449281290174 -25.28795059439005 16 ",
+    "control": "43cd708aafc76ecf4805d5ad1d9468c8",
+    "latLng": [
+        -57.624492812902,
+        -25.28795059439
+    ],
+    "time": 1553478077,
+    "name": 2028346034,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/2de095850709fe2d770b2e10b0205fe3.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ENhi-Mu\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ESelva Fox\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003E25 de mayo 1087 casi Brasil\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i43cd708aafc76ecf4805d5ad1d9468c8\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -57.634099395946,
+        -25.285125151723
+    ]
+},"properties":{
+    "title": "El 6to",
+    "3263": "El 6to",
+    "3268": "Es un espacio independiente, intimo, libre y colaborativo, sobre todo hogareño que brinda contención emocional desde el respeto a la diversidad y la confianza de sus colaboradores; artistas en su mayoría. Ofrece un espacio seguro donde realizar presentaciones bien intimas, que dé lugar a la experimentación, a mostrar algo menos común o también presentar proyectos de artistas que todavía no salieron a la luz.\u003Cbr\u003EEl 6to es una experiencia de arte, de gastronomia y de compartir información creando nuevos lazos entre el artista y su publico y su publico entre si, unidos por el mismo afecto o interés.",
+    "3279": "Azara 197 esquina Yegros, Microcentro.",
+    "3265": "Asunción",
+    "category": "Paraguay",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/5aaaf41fcc24f91f99a616ff17ea2b03.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Paraguay",
+    "3264": "-57.634099395945675 -25.285125151722905 16",
+    "3267": "Independiente",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Cine\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Música",
+    "3284": " 4 ambientes en uno, abierto estilo loft en edificio céntrico.\u003Cbr\u003EEscenario\/sala de ensayo, estudio de grabación, mesa de trabajo, sala confortable con Wi-Fi y televisor de 48 pulgadas.\u003Cbr\u003E",
+    "3277": "Las principales actividades gestionadas por el espacio son los conciertos de Rafaela Mood que se realizan los últimos miércoles de cada mes con sus meses libres.\u003Cbr\u003ETambién desarrollamos encuentros de trabajo de actividades especificas entre los colaboradores, encuentros de lectura, de producción, ensayos, filmaciones. Todo se genera a medida de las necesidades; por lo pronto el hilo conductor es el proyecto Rafaela Mood que se desarrolla íntegramente en este espacio.",
+    "3285": "Piso cerámico, equipos de sonido, micrófonos, instrumentos musicales, luces, proyector, maquina de humo, telas negras, y linóleo negro para formar una caja oscura del escenario abierto.",
+    "3286": "",
+    "3287": "6 par Led, una consola DMX, cables de señal, cables de alimentación, una barra frontal, una barra para contraluz, dos barras laterales.",
+    "3288": "",
+    "3269": "Se realiza por porcentaje de entradas o estipulando un monto especifico que sirva a ambas partes o trueque de servicios.",
+    "3289": "47fb4f69d470f1e5024c765b8b89ce35.jpg",
+    "3290": "",
+    "3305": "",
+    "3291": "",
+    "3292": "",
+    "3293": "Julia Peroni",
+    "3295": "Verónica Alvarado",
+    "3296": 971965965,
+    "3294": 981390191,
+    "3299": "Propietaria",
+    "3298": "",
+    "3272": "juliaperoni@gmail.com",
+    "3297": "",
+    "3491": "",
+    "localizacion": "-57.634099395945675 -25.285125151722905 16 ",
+    "control": "5156808468d9104dd788fdee465bdec5",
+    "latLng": [
+        -57.634099395946,
+        -25.285125151723
+    ],
+    "time": 1553477181,
+    "name": 1801148746,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/47fb4f69d470f1e5024c765b8b89ce35.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003EEl 6to\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:juliaperoni@gmail.com\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EJulia Peroni\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EAzara 197 esquina Yegros, Microcentro.\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i5156808468d9104dd788fdee465bdec5\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -58.991283830255,
+        -27.453998054945
+    ]
+},"properties":{
+    "title": "Centro Cultural Alternativo (Cecual)",
+    "3263": "Centro Cultural Alternativo (Cecual)",
+    "3268": "El Centro Cultural Alternativo del Instituto de Cultura tiene 22 años y se distingue por una gestión participativa inédita en el ambito público. El último período de gestión lleva 10 años, hace 8 años que lo dirige Francisco “Corcho” Benítez y participan más de veinte colectivos independientes de música, diseño, danza, teatro y producción, entre otros.",
+    "3279": "Santa María de Oro 471",
+    "3265": "Resistencia ",
+    "category": "Argentina",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/50c39dbcfbab58a6d83f9f1d4ae10e13.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Argentina",
+    "3264": "-58.99128383025528 -27.453998054944762 15",
+    "3267": "Público",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022Formación\\\u0022]]}",
+    "3283": "Ferias de huerta agroecológica, Ferias de diseño, exposición y muestras de arte.",
+    "3284": "2 espacios abiertos: 1) “El patio Ambay” patio delantero rodeado de una galería estilo casona antigua con capacidad para 120 personas\u003Cbr\u003E2). “El patio timbó” que se encuentra en la parte trasera del Cecual, tiene un escenario de 6 met. x 4 mt con piso fenólico, el patio tiene una capacidad para 250 personas\u003Cbr\u003E1 Espacio cerrado: cuenta con un teatrín de 3 mt. X 9 mt. Cuenta con un escenario móvil de tarimas, tiene una capacidad para 70 personas.",
+    "3277": "“Leer en la ciudad”, “Festival Ancestral y Contemporáneo”, “Fiesta todos a la Calle”, “ciclo Teatro de Cerca”.",
+    "3285": "Anterior",
+    "3286": "",
+    "3287": "Equipo de sonido: Consola diguital, cajas de grabe, cajas de medio agudo, microferia completa. 1 equipo amplificado portatil. 2 proyectores de 5 mil lumens.\u003Cbr\u003E\u003Cbr\u003E\u003E Equipo de luces: 2 elipsoidal de 650, 2 dimer de 12x A26 amper, 12 canales, 2 consolas 24x24 dmx, 4 par 56 led, 20 par 56 led, 25 pin PC de 1000, 2 trípodes para luces.",
+    "3288": "Anterior",
+    "3269": "Alquilado, gratuito, a porcentaje, caché.",
+    "3289": "db8aabb5a63b9a12b8957dd833c746b2.png",
+    "3290": "",
+    "3305": "http:\/\/cecual.blogspot.com",
+    "3291": "https:\/\/www.facebook.com\/CECUAL\/",
+    "3292": "@cecualeros",
+    "3293": "Juan Francisco Benitez",
+    "3295": "",
+    "3296": "",
+    "3294": 540362154810491,
+    "3299": "",
+    "3298": "Director",
+    "3272": "",
+    "3297": "franciscobenitezchaco@hotmail.com",
+    "3491": "",
+    "localizacion": "-58.99128383025528 -27.453998054944762 15 ",
+    "control": "55225cd383fc585e2a86e63b3bf8a08b",
+    "latLng": [
+        -58.991283830255,
+        -27.453998054945
+    ],
+    "time": 1553888131,
+    "name": 615115290,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/db8aabb5a63b9a12b8957dd833c746b2.png\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ECentro Cultural Alternativo (Cecual)\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EJuan Francisco Benitez\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ESanta María de Oro 471\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/http:\/\/cecual.blogspot.com\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003Ehttp:\/\/cecual.blogspot.com\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i55225cd383fc585e2a86e63b3bf8a08b\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -72,
+        4
+    ]
+},"properties":{
+    "title": "Espacio Akana",
+    "3263": "Espacio Akana",
+    "3268": "Espacio Cultural dedicado a la formación, creación y difusión de distintos materiales escénicos principalmente de carácter regional.\u003Cbr\u003E\u003Cbr\u003ECentro Cultural Akana se ha consagrado como una de las instituciones referentes de la región de Tarapacá, Chile, ya que en él se realizan aproximadamente un 50% o más de las actividades artística locales.\u003Cbr\u003E\u003Cbr\u003EEl proyecto parte el año 2010 y hoy es un lugar que cuenta con 2 espacios: Una sala de Teatro y un patio multiuso. Ambos lugares funcionan como espacios de exhibición y\/o ejecución como por ejemplo: Ciclos de Teatro, Talleres Artísticos, charlas, seminarios, Ciclos de música etc. \u003Cbr\u003E\u003Cbr\u003EEl Centro Cultural cuenta con 3 ejes de acción: Formación, Programación y Creación y Producción, ademas de participar en diferentes proyectos asociativos con distintos artistas regionales de Teatro, Cine, Música y Danza.",
+    "3279": "Ramírez 1265",
+    "3265": "Iquique",
+    "category": "Chile",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/82afc44d9c358234ebb411f848481ea4.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Chile",
+    "3264": "-72 4 15",
+    "3267": "Mixto",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022Cine\\\u0022,\\\u0022Formación\\\u0022]]}",
+    "3283": "",
+    "3284": "Espacio abierto para presenciar obras de teatro, música, conversatorios, exposiciones, etc. y para colaborar con artistas locales, nacionales o extranjeros.",
+    "3277": "Desierto Escénico en Abril",
+    "3285": "",
+    "3286": "",
+    "3287": "",
+    "3288": "",
+    "3269": "A porcentaje",
+    "3289": "c040a424412bbb3ce598c503bcdf49b7.jpg",
+    "3290": "https:\/\/www.youtube.com\/user\/akanateatro",
+    "3305": "www.espacioakana.cl",
+    "3291": "www.facebook.com\/espacioakana",
+    "3292": "instagram.com\/espacioakana",
+    "3293": "Eduardo González",
+    "3295": "Javiera Ayala",
+    "3296": "",
+    "3294": "",
+    "3299": "Recepción Espacio Akana",
+    "3298": "Director Espacio Akana",
+    "3272": "culturaakana@gmail.com",
+    "3297": "direccionakana@gmail.com",
+    "3491": "",
+    "localizacion": "-72 4 15 ",
+    "control": "69c90579b5cbccc80b09df24057ff82b",
+    "latLng": [
+        -72,
+        4
+    ],
+    "time": 1555627315,
+    "name": 309163965,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/c040a424412bbb3ce598c503bcdf49b7.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003EEspacio Akana\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:culturaakana@gmail.com\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EEduardo González\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ERamírez 1265\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/www.espacioakana.cl\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003Ewww.espacioakana.cl\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i69c90579b5cbccc80b09df24057ff82b\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -70.3976891,
+        -23.64939325
+    ]
+},"properties":{
+    "title": "Teatro Pedro de la Barra",
+    "3263": "Teatro Pedro de la Barra",
+    "3268": "El Teatro Pedro de la Barra de la Universidad de Antofagasta, se encuentra ubicado en pleno centro de la ciudad de Antofagasta. El edificio originalmente, una escuela de niñas, data de fines del S. XIX., y en 1985 fue declarado Monumento Nacional. Desde 1981 fue adaptado como sala de teatro, donde funciona la cincuentenaria Compañía de Teatro de la Universidad de Antofagasta. Actualmente se encuentra en desarrollo un proyecto de restauración y puesta en valor del edificio.",
+    "3279": "Condell 2954",
+    "3265": "Antofagasta",
+    "category": "Chile",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/82afc44d9c358234ebb411f848481ea4.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Chile",
+    "3264": "-70.3976891 -23.64939325 16",
+    "3267": "otro",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022Cine\\\u0022]]}",
+    "3283": "Una variada gama de expresiones artístico-escénicas, tanto locales como nacionales y extranjeras, además de exhibiciones.",
+    "3284": "- Disposición sala: a la italiana\u003Cbr\u003E- Patio de butacas con 102 ubicaciones, separadas por un pasillo central de acceso. (Disposición mostrada en plano siguiente, es la anterior al año 2000)\u003Cbr\u003E- 02 salidas de emergencia laterales, junto a la primera fila.\u003Cbr\u003E- Camarín mixto con 8 espejos para maquillaje.\u003Cbr\u003E- Baño artistas con ducha y agua caliente (en exterior).\u003Cbr\u003E",
+    "3277": "La actividad principal que se realiza cada año, son las temporadas de los montajes de la Cía. de Teatro de la Universidad de Antofagasta. Elenco profesional de 56 años de trayectoria artística que tiene a cargo el establecimiento teatral. También durante el mes de enero de cada año, apoya en la realización del Festival Internacional de Teatro ZICOSUR Antofagasta (FITZA). Se imparten talleres de actuación para estudiantes de enseñanza secundaria y universitaria. Durante el año lectivo, se acoge a la Carrera de Artes Escénicas de la U. de Antofagasta, facilitando las instalaciones para la realización de clases y muestras de exámenes de algunas asignaturas.",
+    "3285": "- Altura: 04 metros\u003Cbr\u003E- Embocadura: 8,82 metros\u003Cbr\u003E- Fondo: 9,32 metros\u003Cbr\u003E- Altura escenario: 77 cms.\u003Cbr\u003E- Piso: De madera. Sin declive.\u003Cbr\u003E- 04 salidas laterales\u003Cbr\u003E- Chásena\u003Cbr\u003E- 04 varas móviles para maniobras de tramoya\u003Cbr\u003E- Telón de fondo: negro o blanco\u003Cbr\u003E- 10 varas fijas de iluminación\u003Cbr\u003E- Sala de control FOH en altura.\u003Cbr\u003E- Luz de sala con dimmer en sala de control o switch directo en foyer.\u003Cbr\u003E- Alimentación trifásica 380 volts\u003Cbr\u003E- 80 circuitos eléctricos para iluminación\u003Cbr\u003E- Patchera 24 salidas\/ 6 enchufes cada una\u003Cbr\u003E- 01 power Lite Puter DX 1227 20A 12 dimmers (4kW por canal)\u003Cbr\u003E*Existe otro power de mismas características, pero cuenta con solo 8 canales dimmeables, el resto\u003Cbr\u003Eno funciona bien, si bien encienden, lo hacen al 100%, no permitiendo su atenuación de intensidad.\u003Cbr\u003E- 06 focos elipsoidales genéricos 50o 750W\u003Cbr\u003E- 01 foco elipsoidal ETC Source 4 Jr. Zoom 25-50o- 02 focos elipsoidales 19o\u003Cbr\u003E- 10 focos PAR 64 NSP\u003Cbr\u003E- 09 focos PAR 56 NSP\u003Cbr\u003E- 03 Barras LED\u003Cbr\u003E- 01 consola Theatrelight Novalink 36 DMX-512 (instalada en sala de control)\u003Cbr\u003E- 01 consola AmericanPro 24\/48 DMX-512\u003Cbr\u003E- Sistema pasivo Panaray BOSE 502A (altavoces agudos y medios) BOSE 502B (altavoz bajos)\u003Cbr\u003E- BOSE 502C (controlador del sistema)\u003Cbr\u003E",
+    "3286": "c7660eae7c1aef1bdeb7733c7aec8b0a.pdf",
+    "3287": "",
+    "3288": "",
+    "3269": "otro",
+    "3289": "aaf457e8838f80876e64135ba4a536fb.jpg",
+    "3290": "",
+    "3305": "www.teatrouantof.com",
+    "3291": "Teatro Pedro de la Barra. Antofagasta. Chile \/\/ Compañía de Teatro de la Universidad de Antofagasta",
+    "3292": "@teatropedrodelabarraua",
+    "3293": "Raúl Rocco Rojas ",
+    "3295": "Claudio Ortiz Chiang",
+    "3296": 56982303815,
+    "3294": 56995463194,
+    "3299": "Director",
+    "3298": "Encargado de Sala",
+    "3272": "raul.rocco@uantof.cl",
+    "3297": "claudio.ortiz@uantof.cl",
+    "3491": "",
+    "localizacion": "-70.3976891 -23.64939325 16 ",
+    "control": "7850c035cc53ee5719aa8677fb805ea7",
+    "latLng": [
+        -70.3976891,
+        -23.64939325
+    ],
+    "time": 1553893303,
+    "name": 805747993,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/aaf457e8838f80876e64135ba4a536fb.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ETeatro Pedro de la Barra\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:raul.rocco@uantof.cl\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ERaúl Rocco Rojas\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ECondell 2954\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/www.teatrouantof.com\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003Ewww.teatrouantof.com\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i7850c035cc53ee5719aa8677fb805ea7\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -68.128307713196,
+        -16.503791826637
+    ]
+},"properties":{
+    "title": "Teatro Municipal al aire libre Jaime Laredo",
+    "3263": "Teatro Municipal al aire libre Jaime Laredo",
+    "3268": "Coliseo al aire libre. Escenario para actividades masivas, sobre todo musicales de carácter internacional.",
+    "3279": "Casco central. Av. del Ejército",
+    "3265": "La Paz",
+    "category": "Bolivia",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/4fff87a12af4add80e0ea7808dcb5824.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Bolivia",
+    "3264": "-68.1283077131957 -16.503791826637073 16",
+    "3267": "Público",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Música\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "",
+    "3284": "Espacio abierto con capacidad para 9.000 espectadores.",
+    "3277": "Escenario para actividades masivas, sobre todo musicales de carácter internacional.",
+    "3285": "Piso de cemento.\u003Cbr\u003ESe dota de electricidad solamente. Los solicitantes contratan sonido y luces según la necesidad.",
+    "3286": "",
+    "3287": "",
+    "3288": "",
+    "3269": "Alquilado",
+    "3289": "008664170ea2ab0d7355a7247659962b.png",
+    "3290": "",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/teatrosmunicipaleslapaz\/",
+    "3292": "",
+    "3293": " Mabel Franco Ortega",
+    "3295": "Marcelo Vargas",
+    "3296": 59170522927,
+    "3294": 59122406133,
+    "3299": "Encargado de la sala",
+    "3298": "Jefa de la Unidad de Espacios Escénicos Municipales",
+    "3272": "marcelovargasdavalos@gmail.com",
+    "3297": "mabel.franco@lapaz.bo",
+    "3491": "",
+    "localizacion": "-68.1283077131957 -16.503791826637073 16 ",
+    "control": "7b8a0a14833b8ee96d4dcd615ede3ce3",
+    "latLng": [
+        -68.128307713196,
+        -16.503791826637
+    ],
+    "time": 1560547696,
+    "name": 1665427175,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/008664170ea2ab0d7355a7247659962b.png\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ETeatro Municipal al aire libre Jaime Laredo\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:marcelovargasdavalos@gmail.com\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EMabel Franco Ortega\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ECasco central. Av. del Ejército\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i7b8a0a14833b8ee96d4dcd615ede3ce3\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -57.633774303831,
+        -25.292037293813
+    ]
+},"properties":{
+    "title": "Arlequ\u0026iacute;n Teatro",
+    "3263": "Arlequín Teatro",
+    "3268": "Centrado en teatro, aunque acoge ballet y otros.",
+    "3279": "Antequera 1061 entre Rca de Colombia y Tte. Fariña",
+    "3265": "Asunción",
+    "category": "Paraguay",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/5aaaf41fcc24f91f99a616ff17ea2b03.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Paraguay",
+    "3264": "-57.633774303831174 -25.292037293812815 17",
+    "3267": "Privado",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022]]}",
+    "3283": "",
+    "3284": "Espacio cerrado.\u003Cbr\u003ECapacidad de 176 butacas fijas pudiendo llegar a 200 con sillas agregadas. \u003Cbr\u003ESala a la italiana",
+    "3277": "Organiza su propia temporada de teatro, que consta de alrededor de 6 estrenos anuales en temporadas de aproximadamente 6 semanas.",
+    "3285": "Piso de madera sobre estructuras metálicas\u003Cbr\u003E12 par led, par 1000, elipsoidales\u003Cbr\u003EConsola de 6 canales con un doble reproductor de cd.\u003Cbr\u003EProyector y pantalla eléctrica en el centro del escenario. ",
+    "3286": "",
+    "3287": "",
+    "3288": "",
+    "3269": "A negociar entre alquiler, procentaje y cachet",
+    "3289": "23675b3fc34af09089523e6ecd5972ef.png",
+    "3290": "",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/arlequin.py\/",
+    "3292": "@arlequinpy",
+    "3293": "Pablo Ardissone",
+    "3295": "José Luis Ardissone",
+    "3296": "",
+    "3294": "",
+    "3299": "Director ejecutivo",
+    "3298": "Director general",
+    "3272": "pablo@arlequin.com.py",
+    "3297": "joseluis@arlequin.com.py",
+    "3491": "",
+    "localizacion": "-57.633774303831174 -25.292037293812815 17 ",
+    "control": "910244947917945d150ba88991dcb4eb",
+    "latLng": [
+        -57.633774303831,
+        -25.292037293813
+    ],
+    "time": 1553476364,
+    "name": 572969115,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/23675b3fc34af09089523e6ecd5972ef.png\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003EArlequín Teatro\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:pablo@arlequin.com.py\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EPablo Ardissone\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EAntequera 1061 entre Rca de Colombia y Tte. Fariña\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i910244947917945d150ba88991dcb4eb\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -66.165606379509,
+        -17.400227123858
+    ]
+},"properties":{
+    "title": "Proyecto mARTadero",
+    "3263": "Proyecto mARTadero",
+    "3268": "Es un espacio de desarrollo social a través del arte y la cultura.\u003Cbr\u003EUn proyecto integral y multidimensional, ubicado en la zona de Villa Coronilla de Cochabamba (Bolivia) que desde hace 14 años trabaja enfocado en una incidencia responsable mediante mecanismos artístico-culturales. Tiene vocación de prototipo, de foco irradiador de creatividad y de producir mejoras para el entorno.\u003Cbr\u003EBasa su estrategia en tres pilares fundamentales: El Espacio, la gestión cultural y los principios ( innovación, investigación, experimentación, rigor conceptual y formal, integración, intercambio e interculturalidad).",
+    "3279": "Av. 27 de Agosto esq. Ollantay",
+    "3265": "Cochabamba",
+    "category": "Bolivia",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/4fff87a12af4add80e0ea7808dcb5824.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Bolivia",
+    "3264": "-66.16560637950899 -17.400227123858198 18",
+    "3267": "Espacio municipal aministrado por una asociación de artistas",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022Cine\\\u0022]]}",
+    "3283": "Literatura, Arquitectura, Artes visuales, Interacción Social y Audiovisual",
+    "3284": "Playa grande: espacios cerrado, aforo 120 personas\u003Cbr\u003E\u003Cbr\u003EPlaya chica: espacio cerrado, aforo 30 personas\u003Cbr\u003E\u003Cbr\u003ESala de cabezas: espacio cerrado, aforo 40 personas\u003Cbr\u003E\u003Cbr\u003EEscenario al aire libre: espacio abierto, aforo 400 personas\u003Cbr\u003E\u003Cbr\u003EResidencias para artistas: capacidad para 12 personas ",
+    "3277": "Panorama escénico, Festival Bertolt Brecht (en coorganización con el ICBA, Instituto Cultural Boliviano Alemán).\u003Cbr\u003E\u003Cbr\u003E\u003Cbr\u003E",
+    "3285": "Playa grande: piso de concreto recubierto con linóleo, caja negra  \u003Cbr\u003E\u003Cbr\u003EPlaya chica: piso flotante\u003Cbr\u003E\u003Cbr\u003ESala de cabezas: piso de madera, dos paredes de espejos\u003Cbr\u003E\u003Cbr\u003EEscenario al aire libre: piso de madera\u003Cbr\u003E\u003Cbr\u003EUn equipo disponible para todas las salas: 4 pares 64, 6 halógenos, 1 dimmer, 1 consola de luces, 1 consola de sonido, 2 activos. 1 Data ",
+    "3286": "",
+    "3287": "",
+    "3288": "Contamos con otros espacios con características técnicas equivalentes al espacio anterior. Para más información: https:\/\/martadero.org\/espacios\/",
+    "3269": "Alquilado, gratuito, a porcentaje, caché",
+    "3289": "f8f331e2aea4b38b87f930a02b898445.jpg",
+    "3290": "https:\/\/www.youtube.com\/user\/proyectomartadero\/",
+    "3305": "https:\/\/martadero.org",
+    "3291": "@proyectomartadero",
+    "3292": "https:\/\/www.instagram.com\/proyecto.martadero\/",
+    "3293": "Claudia Andrea Michel Flores",
+    "3295": "Jorge Alaniz León",
+    "3296": "",
+    "3294": "",
+    "3299": "Res. de Programación cultural ",
+    "3298": "Resp. Artes escénicas",
+    "3272": "programacion@martadero.org",
+    "3297": "artesescenicas@martadero.org",
+    "3491": "",
+    "localizacion": "-66.16560637950899 -17.400227123858198 18 ",
+    "control": "9adbbe1bd1830376eb981a44d996e319",
+    "latLng": [
+        -66.165606379509,
+        -17.400227123858
+    ],
+    "time": 1553783953,
+    "name": 994328968,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/f8f331e2aea4b38b87f930a02b898445.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003EProyecto mARTadero\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:programacion@martadero.org\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EClaudia Andrea Michel Flores\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EAv. 27 de Agosto esq. Ollantay\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/https:\/\/martadero.org\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003Ehttps:\/\/martadero.org\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i9adbbe1bd1830376eb981a44d996e319\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -57.630307590589,
+        -25.288787998358
+    ]
+},"properties":{
+    "title": "Centro Cultural de Espa\u0026ntilde;a Juan de Salazar",
+    "3263": "Centro Cultural de España Juan de Salazar",
+    "3268": "El Centro Cutural de España Juan de Salazar dependiente de la Embajada de España en Paraguay y forma parte de la Red de Centros Culturales de la Agencia Española de Cooperación Internacional para el Desarrollo (AECID). El Salazar, con más de 40 años de existencia, lleva una cargada agenda de actividades diversas en artes escénicas, música, audiovisual, literatura y más; aloja y ofrece tanto espectáculos, como actividades formativas, encuentros y más. Pensando siempre en cultura como un componente ineludible al desarrollo y con un enfoque de derechos. ",
+    "3279": "Herrera 835 c\/ Tacuary",
+    "3265": "Asunción",
+    "category": "Paraguay",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/5aaaf41fcc24f91f99a616ff17ea2b03.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Paraguay",
+    "3264": "-57.63030759058893 -25.28878799835753 17",
+    "3267": "otro",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022Cine\\\u0022,\\\u0022Circo\\\u0022,\\\u0022Formación\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Ciencias Sociales, Medioambiente, Derechos Humanos, Literatura, Artes Visuales, Tecnologías, Comunidades",
+    "3284": "Auditorio Manuel de Falla. Espacio cerrado, con posibilidad de salida al jardin y hacer las actividades al aire libre. Aforo de 170 personas. \n\t\t\t \t\n\t\t\t \t",
+    "3277": "La Semana del Centro, organizado por el CEPATE (Marzo), Encuentro Internacional de Danza y Artes Contemporánea \\\u0022Crear en Libertad\\\u0022, organizado por ACCEL (Agosto), Mes de Teatro Hispano Hispano - Paraguayo, organizado por el CCEJS. ",
+    "3285": "Auditorio Manuel de Falla. Piso de parquet de 8 por 9 mts. aproximadamente. Cuenta con planta de luces led y convencionales, equipos de sonido, altavoces, micrófonos, pedestales, máquina de humo, linóleo proyector, pantalla. El escenario se abre por atrás, de manera a que el espectáculo se realice de cara al jardín.",
+    "3286": "caf187f9dfddb6a63b6259c8000dcf10.pdf",
+    "3287": "",
+    "3288": "Jardín Feliz de Azara. Espacio abierto. Aforo aproximado 150 personas, según montaje. Cuenta con un sector de piso de arena y otro de ladrillo. Los equipos de sonido del auditorio se pueden trasladar aquí, así como algunos equipos de luces. \n\t\t\t \t",
+    "3269": "Gratuito",
+    "3289": "aabe11f16a84dd363cfbff9879881c8d.jpg",
+    "3290": "https:\/\/vimeo.com\/ylabsalazar",
+    "3305": "www.juandesalazar.org.py",
+    "3291": "https:\/\/www.facebook.com\/juandesalazarpy\/",
+    "3292": "https:\/\/www.instagram.com\/juandesalazarpy\/?hl=es-la",
+    "3293": "Fernando Fajardo",
+    "3295": "Silvia Villalba",
+    "3296": 21449921,
+    "3294": "",
+    "3299": "Coordinadora de Programación",
+    "3298": "Director",
+    "3272": "silvia.villalba@aecid.es",
+    "3297": "fernando.fajardo@aecid.es",
+    "3491": "",
+    "localizacion": "-57.63030759058893 -25.28878799835753 17 ",
+    "control": "9b06d6b878a15cb33f28111d3069799c",
+    "latLng": [
+        -57.630307590589,
+        -25.288787998358
+    ],
+    "time": 1570132256,
+    "name": 84474280,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/aabe11f16a84dd363cfbff9879881c8d.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ECentro Cultural de España Juan de Salazar\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:silvia.villalba@aecid.es\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EFernando Fajardo\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EHerrera 835 c\/ Tacuary\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/www.juandesalazar.org.py\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003Ewww.juandesalazar.org.py\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/i9b06d6b878a15cb33f28111d3069799c\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -60.636945418082,
+        -32.938461422614
+    ]
+},"properties":{
+    "title": "Centro cultural Parque Espa\u0026ntilde;a",
+    "3263": "Centro cultural Parque España",
+    "3268": "Centro cultural estatal de gestión mixta entre la Agencia Española de Cooperación Internacional para el Desarrollo y la Municipalidad de Rosario. Pertenece a la red de centros culturales españoles.\u003Cbr\u003EFundación con financiamiento público del gobierno de España y de la Municipalidad de Rosario.",
+    "3279": "Sarmiento y el río Paraná",
+    "3265": "Rosario",
+    "category": "Argentina",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/50c39dbcfbab58a6d83f9f1d4ae10e13.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Argentina",
+    "3264": "-60.636945418082185 -32.93846142261435 18",
+    "3267": "Mixto",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022Cine\\\u0022,\\\u0022Formación\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Artes visuales, Formación y promoción de industrias culturales y creativas, Innovación social y desarrollo, Conocimiento ",
+    "3284": "Espacios:\u003Cbr\u003ETeatro\u003Cbr\u003ETúnel 4 conciertos de cámara \/ cine \/ conferencias \/ teatro\u003Cbr\u003EGalerías\u003Cbr\u003EMediateca\u003Cbr\u003EPatio de cipreses\u003Cbr\u003EAnfiteatro\u003Cbr\u003EExplanada\u003Cbr\u003EEscalinatas",
+    "3277": "",
+    "3285": "Principales espacios:\u003Cbr\u003ETeatro Príncipe de Asturias. Preparado para albergar obras escénicas --teatro, danza-- conciertos de cámara, conferencias, y conciertos amplificados de pequeño formato o de gran formato utilizando sonido extra . Aire acondicionado, calefacción central.\u003Cbr\u003ESala con 518 plateas organizadas en 4 sectores.\u003Cbr\u003ECaracterísticas del escenario: Boca 10 m , Fondo 8 m Proscenio 2,1 m  Altura 5 m Altura hasta varas 5,3 Altura hasta estructura 6 m (sin espacio de izado sobre la estructura de carga). Piso: madera\u003Cbr\u003ETelar Telones Telón de boca (gris) Telón de medio escenario (negro) Telón de fondo (cámara negra) (negro) 4 pares de patas  4 bambalinas  Varas  2 varas de frente (fuera de la caja escénica) (motorizadas) 1 vara fija en el proscenio  6 varas dentro de la caja (mecanizadas) 2 varas laterales en posición de calle (izado directo)\u003Cbr\u003EPanelería acústica variable.\u003Cbr\u003ECamarines dos grandes para varias personas con baños, duchas y espejos.1 camarín a nivel del escenario. Espacio debajo del escenario que puede utilizarse de camarín de manera alternativa.\u003Cbr\u003ELuces  4 packs de dimmers de 4 k 1 consola programable Dot2 Ma 10 faroles de PAR led 40 faroles de PAR 64 1000 w 110 w 10 faroles PC 1000 w 220 v 9 mangueras de 6  envíos por cada 30 prolongaciones 220 w 20 prolongaciones DMX (3m)\u003Cbr\u003EVideo  Proyector de 4000 ANSI-lumens  Pantalla de 5x3.75m.\u003Cbr\u003ESonido Pequeño sistema de sonido auto amplificado, consola análoga de 16 canales y cuatro altavoces de monitoreo. Micrófonos para voces e instrumentos. Micrófonos para conferencias. \u003Cbr\u003EPiano  Yamaha C7.\u003Cbr\u003E\u003Cbr\u003ETúnel 4\u003Cbr\u003ECapacidad para 130 butacas.  Aire acondicionado, calefacción central.\u003Cbr\u003EEstá preparado para la realización de conciertos de cámara, obras de teatro escénicas de montaje mínimo, conciertos amplificados de pequeño formato, conferencias, proyecciones de cine y seminarios. Las características de su arquitectura lo dotan de una acústica natural especial para conciertos acústicos.\u003Cbr\u003EEscenario : 5 m x 5 m\u003Cbr\u003ELuces Consola de 12 canales 1 pack de dimmer  24 PAR 300 w de 220v  1 PC 1000 w 220 v 4 mangueras  4 varas fijas.\u003Cbr\u003ESonido Pequeño sistema de sonido tipo line array, consola digital de rack de 8 canales y cuatro altavoces de monitoreo.",
+    "3286": "",
+    "3287": "",
+    "3288": "",
+    "3269": "Se convienen arreglos de pago a porcentaje de borderaux, con o sin seguro. La programación siempre responde al plan de trabajo anual del centro cultural.",
+    "3289": "ca7ba247e1bfc1df82ffaba45625661d.png",
+    "3290": "https:\/\/www.youtube.com\/watch?v=hh8BxiT7SFw",
+    "3305": "http:\/\/ccpe.org.ar\/",
+    "3291": "https:\/\/www.facebook.com\/CCPErosario\/",
+    "3292": "@ccpe.rosario",
+    "3293": "Fernanda González Cortiñas",
+    "3295": "Giulia Luisetti",
+    "3296": 5493414260941,
+    "3294": 5493414260941,
+    "3299": "Coordinadora",
+    "3298": "Directora ",
+    "3272": "coordinacion@ccpe.org.ar",
+    "3297": "direccion@ccpe.org.ar",
+    "3491": "",
+    "localizacion": "-60.636945418082185 -32.93846142261435 18 ",
+    "control": "a4b947aed0bc510e80b6009038ec14f0",
+    "latLng": [
+        -60.636945418082,
+        -32.938461422614
+    ],
+    "time": 1554338844,
+    "name": 1197680678,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/ca7ba247e1bfc1df82ffaba45625661d.png\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ECentro cultural Parque España\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:coordinacion@ccpe.org.ar\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EFernanda González Cortiñas\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ESarmiento y el río Paraná\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/http:\/\/ccpe.org.ar\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003Ehttp:\/\/ccpe.org.ar\/\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/ia4b947aed0bc510e80b6009038ec14f0\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -57.6302711,
+        -25.2888617
+    ]
+},"properties":{
+    "title": null,
+    "3263": "",
+    "3268": "",
+    "3279": "",
+    "3265": "",
+    "category": null,
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=150\/",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "",
+    "3264": "-57.63027109999999 -25.288861699999998 15",
+    "3267": "",
+    "3278": "",
+    "3283": "",
+    "3284": "",
+    "3277": "",
+    "3285": "",
+    "3286": "",
+    "3287": "",
+    "3288": "",
+    "3269": "",
+    "3289": "",
+    "3290": "",
+    "3305": "",
+    "3291": "",
+    "3292": "",
+    "3293": "",
+    "3295": "",
+    "3296": "",
+    "3294": "",
+    "3299": "",
+    "3298": "",
+    "3272": "",
+    "3297": "",
+    "3491": "",
+    "localizacion": "-57.63027109999999 -25.288861699999998 15 ",
+    "control": "ab82d5d35bd9c235cf5c6ad6724c4680",
+    "latLng": [
+        -57.6302711,
+        -25.2888617
+    ],
+    "time": 1553545764,
+    "name": 188430137,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003E\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003E\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/iab82d5d35bd9c235cf5c6ad6724c4680\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -57.632918637246,
+        -25.292171469844
+    ]
+},"properties":{
+    "title": "El Otro Teatro",
+    "3263": "El Otro Teatro",
+    "3268": "Un espacio alternativo de teatro independiente. El lugar está actualmente en crecimiento y cuenta con una pequeña sala-cantina. El objetivo es contar con una sala de teatro al estilo herradura más adelante.",
+    "3279": "Tacuary 1048 esq. Manuel Ortiz Guerrero",
+    "3265": "Asunción",
+    "category": "Paraguay",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/5aaaf41fcc24f91f99a616ff17ea2b03.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Paraguay",
+    "3264": "-57.6329186372459 -25.292171469844146 15",
+    "3267": "Independiente",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Teatro\\\u0022,\\\u0022Formación\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Música. Formación literaria",
+    "3284": "Espacio cerrado con una boca a la italiana. La pequeña sala puede albergar a 50 espectadores sentados.",
+    "3277": "Laboratorios de teatro, sala de ensayo, funciones de teatro experimental.",
+    "3285": "pequeño espacio de 4 metros cuadrados, con suelo de ladrillo y techo bajo, el escenario está elevado a un metro de la sala, Hay una cocina\/barra en la sala por lo que lo hace ideal para obras unipersonales de estilo café-concert.",
+    "3286": "",
+    "3287": "",
+    "3288": "",
+    "3269": "A porcentaje",
+    "3289": "0f09fe61849926187a8d15e55eff8bce.png",
+    "3290": "",
+    "3305": "",
+    "3291": "",
+    "3292": "",
+    "3293": "Nelson Viveros",
+    "3295": "",
+    "3296": "",
+    "3294": 59521986640003,
+    "3299": "Propietario y administrador",
+    "3298": "",
+    "3272": "nelson11a@gmail.com",
+    "3297": "",
+    "3491": "",
+    "localizacion": "-57.6329186372459 -25.292171469844146 15 ",
+    "control": "b1843be257bbd534c863f514d3869716",
+    "latLng": [
+        -57.632918637246,
+        -25.292171469844
+    ],
+    "time": 1553481322,
+    "name": 1820671768,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/0f09fe61849926187a8d15e55eff8bce.png\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003EEl Otro Teatro\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:nelson11a@gmail.com\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ENelson Viveros\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ETacuary 1048 esq. Manuel Ortiz Guerrero\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/ib1843be257bbd534c863f514d3869716\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -66.165798765142,
+        -17.400114187261
+    ]
+},"properties":{
+    "title": "Proyecto mARTadero",
+    "3263": "Proyecto mARTadero",
+    "3268": "Es un espacio de desarrollo social a través del arte y la cultura.\u003Cbr\u003E\u003Cbr\u003EUn proyecto integral y multidimensional, ubicado en la zona de Villa Coronilla de Cochabamba (Bolivia) que desde hace 14 años trabaja enfocado en una incidencia responsable mediante mecanismos artístico-culturales. Tiene vocación de prototipo, de foco irradiador de creatividad y de producir mejoras para el entorno.\u003Cbr\u003EBasa su estrategia en tres pilares fundamentales: El Espacio, la gestión cultural y los principios ( innovación, investigación, experimentación, rigor conceptual y formal, integración, intercambio e interculturalidad).",
+    "3279": "Av. 27 de Agosto esq. Ollantay",
+    "3265": "Cochabamba ",
+    "category": "Bolivia",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/4fff87a12af4add80e0ea7808dcb5824.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Bolivia",
+    "3264": "-66.16579876514152 -17.400114187261117 18",
+    "3267": "Colaborativo",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022Cine\\\u0022,\\\u0022Formación\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Literatura, arquitectura, artes visuales, interacción social y audiovisual.",
+    "3284": "Playa grande: espacios cerrado, aforo 120 personas\u003Cbr\u003EPlaya chica: espacio cerrado, aforo 30 personas\u003Cbr\u003ESala de cabezas: espacio cerrado, aforo 40 personas\u003Cbr\u003EEscenario al aire libre: espacio abierto, aforo 400 personas\u003Cbr\u003EResidencias para artistas: capacidad para 12 personas ",
+    "3277": "Panorama escénico, Festival Bertolt Brecht (en coorganización con el ICBA, Instituto Cultural Boliviano Alemán).",
+    "3285": "Playa grande: piso de concreto recubierto con linóleo, caja negra  \u003Cbr\u003EPlaya chica: piso flotante\u003Cbr\u003ESala de cabezas: piso de madera, dos paredes de espejos\u003Cbr\u003EEscenario al aire libre: piso de madera\u003Cbr\u003EUn equipo disponible para todas las salas: 4 pares 64, 6 halógenos, 1 dimmer, 1 consola de luces, 1 consola de sonido, 2 activos. 1 Data \u003Cbr\u003E\u003Cbr\u003E",
+    "3286": "",
+    "3287": "",
+    "3288": "",
+    "3269": "Las condiciones de uso dependen de la actividad y del tiempo de uso  Presentaciones: porcentaje por taquilla 70% artista 30% espacio (negociable)  Ensayos: negociable según cantidad de ensayos (negociable).",
+    "3289": "",
+    "3290": "https:\/\/www.youtube.com\/user\/proyectomartadero\/",
+    "3305": "https:\/\/martadero.org",
+    "3291": "https:\/\/www.facebook.com\/proyecto.martadero\/",
+    "3292": "@proyectomartadero",
+    "3293": "Claudia Andrea Michel Flores  ",
+    "3295": "Jorge Alaniz León",
+    "3296": 59170728056,
+    "3294": 59172262533,
+    "3299": "Resp. Artes escénicas ",
+    "3298": "Res. de Programación cultural ",
+    "3272": "artesescenicas@martadero.org",
+    "3297": "programacion@martadero.org",
+    "3491": "",
+    "localizacion": "-66.16579876514152 -17.400114187261117 18 ",
+    "control": "b45e16f475bf74050515b037033f7cab",
+    "latLng": [
+        -66.165798765142,
+        -17.400114187261
+    ],
+    "time": 1553888884,
+    "name": 1742530330,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003EProyecto mARTadero\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:artesescenicas@martadero.org\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EClaudia Andrea Michel Flores\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EAv. 27 de Agosto esq. Ollantay\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/https:\/\/martadero.org\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003Ehttps:\/\/martadero.org\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/ib45e16f475bf74050515b037033f7cab\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -57.632964318618,
+        -25.28749549347
+    ]
+},"properties":{
+    "title": "Dr\u0026aacute;cena",
+    "3263": "Drácena",
+    "3268": "Espacio cultural abierto hace 6 años pero más activamente desde hace 2 años, los focos principales son la música y la gastronomía, pero también alberga todo tipo de artes como poesía, teatro o exposiciones y eventos didácticos como talleres de todo tipo, debates y más.",
+    "3279": "Mexico 732 casi Herrera",
+    "3265": "Asunción",
+    "category": "Paraguay",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/5aaaf41fcc24f91f99a616ff17ea2b03.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Paraguay",
+    "3264": "-57.632964318618185 -25.28749549346953 16",
+    "3267": "Privado",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Formación\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Música y gastronomía, abierto a más artes.",
+    "3284": "Espacio medianamente chico, patio abierto y sala pequeña cerrada.",
+    "3277": "Ciclos de música estables todo el año, feria + jazz a la calle una vez al mes, Festival Jazz al Este en Ciudad del Este una vez al año.",
+    "3285": "Piso azulejo, equipos disponibles: consola de 10 canales, 2 PA, 5 micrófonos, ilumina con faros pequeños y luces de colores led, piano acústico, batería acústica, elementos de percusión. Se realizan registros fotográficos y audiovisuales de los eventos.",
+    "3286": "",
+    "3287": "",
+    "3288": "Calle, una vez al mes en la feria + jazz a la calle.",
+    "3269": "La entrada queda para los artistas. Se les da una consumición de una cena y bebida.",
+    "3289": "651beec2f22a6910f9ab5fe1a733555d.jpg",
+    "3290": "https:\/\/m.youtube.com\/artedracena",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/ArteDracena\/",
+    "3292": "@artedracena",
+    "3293": "Sebastián Ramirez",
+    "3295": "Gabriela Gomez Crosa",
+    "3296": 981613172,
+    "3294": 983615898,
+    "3299": "Gerente propietario",
+    "3298": "Gerente propietaria.",
+    "3272": "",
+    "3297": "",
+    "3491": "",
+    "localizacion": "-57.632964318618185 -25.28749549346953 16 ",
+    "control": "ba805e6ad27dc01012d3f392fbefcba3",
+    "latLng": [
+        -57.632964318618,
+        -25.28749549347
+    ],
+    "time": 1553478698,
+    "name": 1025176104,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/651beec2f22a6910f9ab5fe1a733555d.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003EDrácena\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ESebastián Ramirez\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EMexico 732 casi Herrera\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/iba805e6ad27dc01012d3f392fbefcba3\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -68.136313855648,
+        -16.495156452849
+    ]
+},"properties":{
+    "title": "Teatro Municipal Modesta Sangin\u0026eacute;s",
+    "3263": "Teatro Municipal Modesta Sanginés",
+    "3268": "Teatro ubicado en la Casa de la Cultura, Edificio que contiene las oficinas de la Secretaría Municipal de Culturas. Edificado entre 1948 y 1975, es un edificio emblemático de la ciudad.",
+    "3279": "Casco central. Av. Mariscal Santa Cruz y Potosí",
+    "3265": "La Paz",
+    "category": "Bolivia",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/4fff87a12af4add80e0ea7808dcb5824.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Bolivia",
+    "3264": "-68.13631385564805 -16.49515645284881 17",
+    "3267": "Público",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022]]}",
+    "3283": "",
+    "3284": "Espacio cerrado con capacidad para 279 espectadores.",
+    "3277": "Festival Internacional de Teatro (bienal en años pares)\u003Cbr\u003EEncuentro Escénica (anual): presenta lo mejor del teatro, obras finalistas del concurso municipal Raúl Salmón de la Barra.",
+    "3285": "Piso de madera.\u003Cbr\u003EMesa de madera 2 x 1 m 2\u003Cbr\u003ETarimas de madera de 1 m. x 1 m x 40 cm. de alto 3\u003Cbr\u003ETarimas de madera de 1 m. x 1 m. x 20 cm. de alto 3\u003Cbr\u003ETarima de madera de 2 m x 1. m x 20 cm. de alto 2\u003Cbr\u003ECámara negra 1\u003Cbr\u003EFondo blanco 1\u003Cbr\u003EEcram blanco (fijo) 1\u003Cbr\u003ESillas de madera 8\u003Cbr\u003ECamerinos (2 grupales y 2 individuales) 4",
+    "3286": "",
+    "3287": "SONIDO Y LUCES\u003Cbr\u003EConsola de sonido de 32 marca soundcraf.\u003Cbr\u003E4 micrófonos instrumentales y 4 micrófonos vocales\u003Cbr\u003E4 líneas directas\u003Cbr\u003E1 micrófono inalámbrico\u003Cbr\u003EConsola de 512 dmx\u003Cbr\u003E2 cabezas móviles wash\u003Cbr\u003E16 panelones\u003Cbr\u003E3 licos (cenitales)",
+    "3288": "No",
+    "3269": "Alquilado",
+    "3289": "3d7028aa68a9d3ea201b396603cb8a9b.png",
+    "3290": "",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/teatrosmunicipaleslapaz\/",
+    "3292": "",
+    "3293": "Mabel Franco Ortega",
+    "3295": " Joel Pérez",
+    "3296": 59179595743,
+    "3294": 59122406133,
+    "3299": "Encargado de sala",
+    "3298": "Jefa de la Unidad de Espacios Escénicos Municipales",
+    "3272": "joe.perez@lapaz.bo",
+    "3297": "mabel.franco@lapaz.bo",
+    "3491": "",
+    "localizacion": "-68.13631385564805 -16.49515645284881 17 ",
+    "control": "c824516f848c40a86c0ee86bfa7ea8e0",
+    "latLng": [
+        -68.136313855648,
+        -16.495156452849
+    ],
+    "time": 1560546865,
+    "name": 1219790508,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/3d7028aa68a9d3ea201b396603cb8a9b.png\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ETeatro Municipal Modesta Sanginés\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:joe.perez@lapaz.bo\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EMabel Franco Ortega\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ECasco central. Av. Mariscal Santa Cruz y Potosí\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/ic824516f848c40a86c0ee86bfa7ea8e0\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -58.83740901947,
+        -27.460891177186
+    ]
+},"properties":{
+    "title": "Centro Cultural Flotante Siete Corrientes",
+    "3263": "Centro Cultural Flotante Siete Corrientes",
+    "3268": "Fundado en el año 2004, sobre la estructura de un antiguo puerto flotante en estado de abandono y deterioro, en la rivera  del río Paraná.\u003Cbr\u003EEl Dr. Roberto J. Villalba emprendió el proyecto, que fue declarado de “Interés Cultural” y de “Interés Turístico”, por los organismos provinciales competentes. ",
+    "3279": "Río Paraná, 3400 ",
+    "3265": "Corrientes",
+    "category": "Argentina",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/50c39dbcfbab58a6d83f9f1d4ae10e13.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Argentina",
+    "3264": "-58.83740901947022 -27.46089117718628 16",
+    "3267": "otro",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022Formación\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Cursos, talleres, conferencias, exposiciones, seminarios, yoga, meditación, otros",
+    "3284": "Salón de usos múltiples, Teatrino capacidad 60 pers. Oficina del Director, cafetería. Doble terraza, taller de papel artesanal, barra cultural en terraza.",
+    "3277": "",
+    "3285": "Teatrino con AA, cabina técnica de luces y sonido, escenario elevado piso de madera, camarines amplios. Salidas de emergencia.\u003Cbr\u003EEquipo de sonido Fender con 4 canales. Consola  potenciada de 8 canales Moo, con 2 frontales.\u003Cbr\u003EConsolas de luces, 10 tachos de iluminación.  6 par 1000 y 4 brute.",
+    "3286": "e0f02ab3532271d7edb3e1c1df0bd968.pdf",
+    "3287": "",
+    "3288": "",
+    "3269": "A porcentaje",
+    "3289": "45cc6ae9ba574707a17fa8847a6fe2d9.jpg",
+    "3290": "",
+    "3305": "",
+    "3291": "centro cultural flotante siete corrientes – teatro flotante",
+    "3292": "Flotante Siete corrientes",
+    "3293": "Dr. Roberto J. Villalba",
+    "3295": "",
+    "3296": "",
+    "3294": "",
+    "3299": "Director Fundador",
+    "3298": "",
+    "3272": "centro.cultural.flotante@gmail.com",
+    "3297": "ccflotante@gmail.com",
+    "3491": "",
+    "localizacion": "-58.83740901947022 -27.46089117718628 16 ",
+    "control": "d9bb3b20ce6c8729e71c79bd8691f894",
+    "latLng": [
+        -58.83740901947,
+        -27.460891177186
+    ],
+    "time": 1553787490,
+    "name": 636617788,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/45cc6ae9ba574707a17fa8847a6fe2d9.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ECentro Cultural Flotante Siete Corrientes\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:centro.cultural.flotante@gmail.com\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EDr. Roberto J. Villalba\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ERío Paraná, 3400\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/id9bb3b20ce6c8729e71c79bd8691f894\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -57.636263016611,
+        -25.289412324554
+    ]
+},"properties":{
+    "title": "Teatro Latino",
+    "3263": "Teatro Latino",
+    "3268": "Con el afán de impulsar y promover el entretenimiento y la cultura en el centro de Asunción, la vasta trayectoria del Teatro Latino esta basada en la diversidad de obras de teatro, espectáculos musicales, proyecciones de cine y como estudio para programas de televisión. \u003Cbr\u003EPermanentemente se pueden apreciar obras teatrales y espectáculos para toda la familia.\u003Cbr\u003E",
+    "3279": "Tte. Fariña casi Iturbe",
+    "3265": "Asunción",
+    "category": "Paraguay",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/5aaaf41fcc24f91f99a616ff17ea2b03.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Paraguay",
+    "3264": "-57.636263016611345 -25.2894123245541 17",
+    "3267": "Independiente",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Teatro\\\u0022,\\\u0022Cine\\\u0022]]}",
+    "3283": "",
+    "3284": "Espacio cerrado. \u003Cbr\u003ECapacidad: \u003Cbr\u003EPlatea 270 (15 filas de 18 butacas)\u003Cbr\u003EPlatea alta 119\u003Cbr\u003ETotal 389 butacas",
+    "3277": "Ciclos de teatro y cine en vacaciones de verano e invierno.",
+    "3285": "Medidas: de fondo 10,50 mtrs. De frente 11,10 mtrs. De altura 6 mtrs (techo)\u003Cbr\u003ETelón de boca rojo \/ telón griego negro\u003Cbr\u003EMáquina de Humo\u003Cbr\u003EFondo telar negro \/ telar blanco (para proyecciones)",
+    "3286": "",
+    "3287": "LUCES\u003Cbr\u003E6 cabezas móviles \u003Cbr\u003E24 par 1000 de 110w.\u003Cbr\u003E4 fresnel\u003Cbr\u003E1 cañon seguidor\u003Cbr\u003E1 proyector de 5000 lúmenes\u003Cbr\u003E \u003Cbr\u003ESONIDO\u003Cbr\u003E4 Micrófonos shure vincha\u003Cbr\u003E2 micrófonos shure de mano\u003Cbr\u003E1 pedestal para micrófono\u003Cbr\u003ELa consola cuenta con 8 canales.\u003Cbr\u003EEn el escenario contamos con una parchera con entradas canon.",
+    "3288": "",
+    "3269": "3 TIPOS DE ACUERDO: CONTRATACIÓN TOTAL Esto implica que el productor contrata el teatro completo con todo lo citado en los ítems Escenario, Luces, Sonido y Capacidad. Incluyendo el cache del personal del teatro: 1 sonidista, 1 iluminador, 1 tramoyista y 1 personal de limpieza. RIESGO COMPARTIDO El acuerdo en este caso es dividirnos en partes iguales todo lo recaudado en boletería. La misma debe ser manejada por una ticketera en cuanto a la venta anticipada quien se encargara de dividir el monto recaudado entre el productor y el teatro. Los días de función el teatro habilitara la boletería con personal del teatro quien brindara a los productores un informe final noche a noche sobre el movimiento generado. ACUERDO MIXTO El acuerdo en este caso deja a favor del productor la explotación de las 270 butacas de sala y deja a favor el teatro la explotación de las 119 butacas de platea alta. La boleteria en este caso debe ser manejada por una ticketera, en cuanto a la venta anticipada quien se encargue de distribuir las recaudaciones de cada sector entre el productor y el teatro. Los días de función el teatro habilitara la boletaría con personal del teatro quien brindara a los productores un informe final noche a noche sobre el movimiento generado.  ",
+    "3289": "c89d2b5f4da8eb22ecb3ba9533fd1dfd.jpg",
+    "3290": "https:\/\/www.youtube.com\/watch?v=C4AlXyAWcmM",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/teatrolatinopy\/",
+    "3292": "@teatrolatinopy",
+    "3293": "Dulce Jana Yanho",
+    "3295": "Luis Noguera",
+    "3296": 595961905140,
+    "3294": 595981224140,
+    "3299": "Directora de programación",
+    "3298": "Prensa y redes sociales",
+    "3272": "dulceyanho@gmail.com",
+    "3297": "luinoguera@gmail.com",
+    "3491": "",
+    "localizacion": "-57.636263016611345 -25.2894123245541 17 ",
+    "control": "dbd40ea807cf1bc06ae12a92edc0d099",
+    "latLng": [
+        -57.636263016611,
+        -25.289412324554
+    ],
+    "time": 1553475187,
+    "name": 1736001129,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/c89d2b5f4da8eb22ecb3ba9533fd1dfd.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ETeatro Latino\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:dulceyanho@gmail.com\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EDulce Jana Yanho\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ETte. Fariña casi Iturbe\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/idbd40ea807cf1bc06ae12a92edc0d099\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -64.173352718353,
+        -31.430979255434
+    ]
+},"properties":{
+    "title": "Teatro Griego",
+    "3263": "Teatro Griego",
+    "3268": "Teatro a cielo abierto, ubicado en el Parque Sarmiento, zona sur de la Ciudad.\u003Cbr\u003E",
+    "3279": "Av. Deodoro Roca s\/n, Parque Sarmiento",
+    "3265": "Córdoba",
+    "category": "Argentina",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/50c39dbcfbab58a6d83f9f1d4ae10e13.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Argentina",
+    "3264": "-64.17335271835329 -31.430979255433915 18",
+    "3267": "Público",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Cine\\\u0022,\\\u0022Circo\\\u0022,\\\u0022Formación\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Actividades musicales, festivales, actividades sociales",
+    "3284": "Escenario y gradas a cielo abierto, capacidad para 2000 espectadores. Baterías de baños con capacidad para 600 personas. Cuenta con boletería y camarines con salida a escenario.",
+    "3277": "Festival Griego Rock y Griego Mujeres, actividades sociales, teatro. ",
+    "3285": "Piso de cemento alisado, no cuenta con equipamiento de sonido, luces, ni parrilas o stacks para armado.",
+    "3286": "",
+    "3287": "",
+    "3288": "",
+    "3269": "A porcentaje",
+    "3289": "3ad52e57afd4102ac8681d26c61fef6d.jpg",
+    "3290": "",
+    "3305": "https:\/\/cultura.cordoba.gob.ar\/espacio\/43\/teatro-griego",
+    "3291": "https:\/\/www.facebook.com\/teatromunicipalidadcba\/",
+    "3292": "",
+    "3293": "Lorena Machuca",
+    "3295": "Ana Laura Bronstein",
+    "3296": 428500,
+    "3294": 4285600,
+    "3299": "Jefa División (interina)",
+    "3298": "Empleada del Área de Artes Escénicas",
+    "3272": "areateatromunicipal@gmail.com",
+    "3297": "areateatromunicipal@gmail.com",
+    "3491": "",
+    "localizacion": "-64.17335271835329 -31.430979255433915 18 ",
+    "control": "dd9511fd56292cfdb979f6f22806804e",
+    "latLng": [
+        -64.173352718353,
+        -31.430979255434
+    ],
+    "time": 1553724527,
+    "name": 754732390,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/3ad52e57afd4102ac8681d26c61fef6d.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ETeatro Griego\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:areateatromunicipal@gmail.com\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003ELorena Machuca\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EAv. Deodoro Roca s\/n, Parque Sarmiento\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/https:\/\/cultura.cordoba.gob.ar\/espacio\/43\/teatro-griego\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003Ehttps:\/\/cultura.cordoba.gob.ar\/espacio\/43\/teatro-griego\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/idd9511fd56292cfdb979f6f22806804e\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -57.38006352447,
+        -25.30769343312
+    ]
+},"properties":{
+    "title": "El C\u0026aacute;ntaro Bioescuela popular",
+    "3263": "El Cántaro Bioescuela popular",
+    "3268": "El Cántaro BioEscuela Popular es un lugar abierto y gratuito que trabaja muy fuertemente dentro del marco de la cultura viva comunitaria. Desde hace 12 años se desarrolla ininterrumpidamente el Ciclo de Talleres Creativos Popular, principal herramienta de transformación social de El Cántaro, que reune anualmente de forma directa a 740 personas. La sede de El Cántaro fue bioconstruida comunitariamente con materiales naturales y reciclados.\u003Cbr\u003E\u003Cbr\u003E",
+    "3279": "Via férrea c\/ Mariscal Estigarribia",
+    "3265": "Areguá",
+    "category": "Paraguay",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/5aaaf41fcc24f91f99a616ff17ea2b03.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Paraguay",
+    "3264": "-57.38006352446974 -25.30769343312005 17",
+    "3267": "Independiente",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Cine\\\u0022,\\\u0022Circo\\\u0022,\\\u0022Formación\\\u0022,\\\u0022otro\\\u0022]]}",
+    "3283": "Centro comunitario de carácter amplio",
+    "3284": "Espacio abierto y cerrado.",
+    "3277": "Durante todo el año hay actividades de Marzo a Noviembre la BioEscuela  se lanza un calendario de 34 Talleres Creativos Populares gratuitos. Comprendidos en Talleres de Rescate, Sensibilización y Movilización, Oficios, Comunicación y Tecnología, Ciclos de cine, Ciclos de Conciertos Didácticos y Puesta en escena de funciones de teatro, títeres, etc. Ademas se cuenta con una Mediateca comunitaria abierta diaramente al servicio de la comunidad.",
+    "3285": "Interior: Un escenario muy sencillo de 9 metros de largo y 4 de profundidad con piso de pallets, telón y luces básicas. Capacidad de 100 personas sentadas.",
+    "3286": "",
+    "3287": "",
+    "3288": "Espacio sencillo al aire libre. Salas de talleres y mediateca.",
+    "3269": "En caso que realicen funciones gratuitas en la comunidad el trato es libre. Contamos también un un pequeño espacio de una habitación disponible y también podemos colaborar con los almuerzos.",
+    "3289": "7d9d24e20ef783cf175a7226bf476c49.jpg",
+    "3290": "https:\/\/www.youtube.com\/channel\/UClSk2QD2QsOW2k1Y_xlHIAg",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/pg\/cantarobioescuela",
+    "3292": "@cantarobioescuela",
+    "3293": "Gustavo Diaz",
+    "3295": "Joe Gimenez ",
+    "3296": 971116260,
+    "3294": 971931671,
+    "3299": "Director",
+    "3298": "Directora",
+    "3272": "",
+    "3297": "",
+    "3491": "",
+    "localizacion": "-57.38006352446974 -25.30769343312005 17 ",
+    "control": "deaf4f0958eb18d360c1ef48490e2c06",
+    "latLng": [
+        -57.38006352447,
+        -25.30769343312
+    ],
+    "time": 1553479563,
+    "name": 1128170764,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/7d9d24e20ef783cf175a7226bf476c49.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003EEl Cántaro Bioescuela popular\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EGustavo Diaz\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EVia férrea c\/ Mariscal Estigarribia\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/ideaf4f0958eb18d360c1ef48490e2c06\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}},{"type":"Feature","geometry":{
+    "type": "Point",
+    "coordinates": [
+        -58.171931505203,
+        -26.175563390288
+    ]
+},"properties":{
+    "title": "Centro Cultural Independiente La Mandinga",
+    "3263": "Centro Cultural Independiente La Mandinga",
+    "3268": "“La Mandinga” es un Centro Cultural Independiente, radicado en la Ciudad de Formosa, que viene trabajando desde el año 2009 como un espacio para la realización de actividades sociales, culturales y artísticas, y cuyos objetivos se centran en la promoción y el acercamiento del arte a la comunidad en general, la realización de producciones de diferentes disciplinas artísticas (teatro, música, plástica, danza, circo), el desarrollo de talleres, cursos y seminarios orientados a la formación y el perfeccionamiento de los\/as artistas formoseños, además de la promoción de un espacio abierto a la comunidad que consiga configurar un lugar de desarrollo, circulación y apropiación de diversas expresiones artísticas.",
+    "3279": "Dean Funes 35",
+    "3265": "Formosa",
+    "category": "Argentina",
+    "icon": {
+        "iconUrl": "https:\/\/tupale.co\/milfs\/images\/secure\/?file=300\/50c39dbcfbab58a6d83f9f1d4ae10e13.png",
+        "iconSize": [
+            60
+        ]
+    },
+    "3266": "Argentina",
+    "3264": "-58.171931505203254 -26.175563390287735 17",
+    "3267": "Independiente",
+    "3278": "{\\\u00223278\\\u0022:[[\\\u0022Danza\\\u0022,\\\u0022Teatro\\\u0022,\\\u0022Música\\\u0022,\\\u0022Circo\\\u0022]]}",
+    "3283": "",
+    "3284": "Cuenta con una sala  con escenario elevado de 60 cm, 15 metros de ancho por 7 metros de profundidad, altura hasta el techo 6,50. Tiene capacidad para 200 personas con butacas y gradas. ",
+    "3277": "En Julio aprovechando el receso de invierno, se realiza el “Festival Fresquete” Festival de Teatro, Títeres, Música y Circo de público infantil que reúne a elencos provinciales y regionales, además de contar con una grilla para adultxs.\u003Cbr\u003EEn Noviembre se realiza un “Encuentro de Murgas de estilo Uruguayo” organizado por la Murga La Traficante, uno de los grupos de producción del centro cultural, cuyo objetivo es difundir y compartir el género en Formosa, gestionando invitación a murgas del mismo estilo de la región y del país.\u003Cbr\u003EDos veces al año, fechas decididas en función a la agenda general del centro cultural, se realiza el “Festi Humor”, que contiene una grilla de escenas y monólogos de teatro de humor argentino para público adulto.\u003Cbr\u003EPor último, como iniciativa del Colectivo de Género Mandinguerx, un grupo interno dedicado a la reflexión y a la decontrucción, organiza el “Femi Fest”, un festival de música con perspectiva feminista cuyo objetivo principal es priorizar la presencia de mujeres y disidencias en nuestro escenario mandinguerx, posibilitando así el compartir con el público, la visibilización de las agrupaciones artísticas y el incentivo a la producción. \u003Cbr\u003EAdjuntamos gráfica.",
+    "3285": "La cabina técnica para luces, sonido y proyección, elevado. \u003Cbr\u003EAdjuntamos plano.",
+    "3286": "6e445b545e4760298133666c00548be1.jpg",
+    "3287": "Importante: El centro cultural antes descripto está actualmente en construcción en su última etapa. Consideramos que si nuestra planificación es existosa, estará en pleno funcionamiento con todas sus áreas aparte de las detalladas, aproximadamente a finales de Agosto del 2019.",
+    "3288": "El centro cultural cuenta con un escenario externo de madera techado, para funciones al aire libre cuando el clima lo permita.",
+    "3269": "Propio",
+    "3289": "9ed5b263a1ba7be6bb77ce9c275ad656.jpg",
+    "3290": " https:\/\/www.youtube.com\/watch?v=AuZG2LUaniY\u0026t=10s",
+    "3305": "",
+    "3291": "https:\/\/www.facebook.com\/lamandingaespaciocultural\/",
+    "3292": "https:\/\/www.instagram.com\/lamandingacentrocultural\/",
+    "3293": "Alejandro Risso",
+    "3295": "",
+    "3296": "",
+    "3294": "",
+    "3299": "",
+    "3298": "",
+    "3272": "murgalamandinga@hotmail.com",
+    "3297": "",
+    "3491": "",
+    "localizacion": "-58.171931505203254 -26.175563390287735 17 ",
+    "control": "e7dde0bf37b913a1f653ef3fa05c5d9b",
+    "latLng": [
+        -58.171931505203,
+        -26.175563390288
+    ],
+    "time": 1553785508,
+    "name": 10353690,
+    "description": "\u003Cstyle media=\u0027screen\u0027\u003E\n.btn {\n  border-radius: 0px;\n}\n.leaflet-popup-content-wrapper {\n    border-radius: 0px ;\n}\n.panel-heading {\n    color: white !important;\n    font-weight: 900 !important;\n    background-color: #673688 !important;\n    border-radius: 0px;\n}\n  .panel-title {\n    font-weight: bold;\n  }\n\n  .btn-info {\n    color: #fff !important;\n    background-color: #e24e4e;\n    border-color: #e24e4e;\n}\n.btn-sm {\n    padding: 4px 8px;\n    font-size: 12px;\n  }\n\u003C\/style\u003E\n\u003Cdiv style=\u0027padding:0px !important; \u0027\u003E \u003Cimg  style=\u0027max-width:100%;\u0027class=\u0027img img-responsive\u0027 src=\u0027https:\/\/redhuerteros.org\/milfs\/images\/secure\/?file=300\/9ed5b263a1ba7be6bb77ce9c275ad656.jpg\u0027  \/\u003E\n\n  \u003Cdiv class=\u0027panel-heading\u0027\u003E\n    \u003Ch1 class=\u0027panel-title text-center\u0027\u003ECentro Cultural Independiente La Mandinga\u003C\/h1\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0027list-group\u0027\u003E\n      \u003Ca href=\u0027mailto:murgalamandinga@hotmail.com\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EContacto\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EAlejandro Risso\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\u003Ca href=\u0027#\u0027 class=\u0027list-group-item\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003EDirección\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027\u003EDean Funes 35\u003C\/span\u003E\n   \u003C\/a\u003E\n\n\n\u003Ca href=\u0027http:\/\/\u0027 class=\u0027list-group-item\u0027 target=\u0027_blank\u0027\u003E\n     \u003Ch5 class=\u0027list-group-item-heading text-info\u0027\u003E\u003Cstrong class=\u0027text-info\u0027\u003ESitio web\u003C\/strong\u003E\u003C\/h5\u003E\n     \u003Cspan class=\u0027list-group-item-text\u0027 style=\u0027word-wrap: break-word !important;\n   overflow-wrap: break-word !important ;\u0027\u003E\u003C\/span\u003E\n   \u003C\/a\u003E\n   \u003Ccenter\u003E\u003Ca class= \u0027btn btn-info\u0027 role=\u0027button\u0027 href=\u0027https:\/\/tupale.co\/ie7dde0bf37b913a1f653ef3fa05c5d9b\u0027 target=\u0027_blank\u0027\u003ELeer información completa\u003C\/a\u003E\u003C\/center\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n "
+}} ]}

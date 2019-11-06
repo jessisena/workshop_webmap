@@ -1,12 +1,11 @@
 
-# Workshop web map SOTM Latam
+# Workshop desarrollo de mapas web
 
 ## Preparar entorno
 
 Tener instalado:
-- Node.js
+- Node.js + npm
 - Git
-- Npm
 - VS Code o similar
 
 ------
@@ -56,11 +55,11 @@ ya tendrás todo preparado para empezar el taller.
     - Infowindow
     - Estilización
 
-4. Clustering/HeatMap
+4. Clustering
 
 5. Operaciones con turf.js
 
-9. Publica tu mapa
+6. Publica tu mapa
 
 -----
 
@@ -80,9 +79,9 @@ Puedes añadir la librería de 3 formas distintas:
 npm install leaflet
 ```
 
-2. Descargando el paquete (como se explicado en sú página)
+2. Descargando el paquete (como se explica en su página)
 
-3. Invcluyendo la librería a través de CDN directamente en tu fichero HTML:
+3. Incluyendo la librería a través de CDN directamente en tu fichero HTML:
 
 ```html
 <header>
@@ -121,7 +120,7 @@ Ahora crearemos el objeto mapa usando leaflet. Sigue los siguientes pasos:
 ```javascript
   var mymap = L.map("mymap").setView([-25.301, -57.636], 12);
 ```
-*Estamos diciendole al mapa que se centro en las coordenadas de Asunción, y con nivel de zoom 12*
+*Estamos diciendole al mapa que se centre en las coordenadas de Asunción, y con nivel de zoom 12*
 
 
 2. Añade una capa base:
@@ -153,7 +152,7 @@ https://api.tiles.mapbox.com/v4/mapbox.light/{z}/{x}/{y}.png?access_token=pk.eyJ
 En un mismo mapa podemos tener diferentes capas base añadidas y esocger cuál visualizar usando un control de capas.
 Añade ahora un control de capas a tu mapa:
 
-*Nota: habrá que modificar ligeramente el código que ya tenás*
+*Nota: habrá que modificar ligeramente el código que ya tenías*
 
 
 ```javascript
@@ -184,16 +183,16 @@ Añade ahora un control de capas a tu mapa:
 
 ```
 
-## Añade tus datos:
+## 3. Añade tus datos:
 
-Usaremos un [GEOJSON](https://geojson.org/) de ejemplo con nuestros datos.
+Usaremos un [GEOJSON](https://geojson.org/) con datos de establecimientos de salud, como ejemplo sobre como añadir nuestros datos al mapa.
 
-*TIP: Herramienta online de conversor de formatos de ficheros [CONVERTBOX]()*
+*TIP: Herramienta online de conversor de formatos de ficheros [CONVERTBOX](https://betaportal.icgc.cat/convertbox/)*
 
 
 ```javascript
 
-import { puntos } from './data/puntos.js';
+import { puntos } from './data/establecimientos_salud.js';
 
 (...)
 
@@ -211,14 +210,16 @@ Ahora podemos añadir una infowindow a cada uno de los puntos del mapa:
 
 const puntosLayer = L.geoJSON(puntos)
 .bindPopup(function (layer) {
-    return `<h2>${layer.feature.properties.nom}</h2><p>${layer.feature.properties.description}</p>`;
+    return `<h2>${layer.feature.properties.nombre}</h2><h3>${layer.feature.properties.tipo}</h3><p>${layer.feature.properties.direccion}</p>`;
 });
 
 puntosLayer.addTo(mymap);
 
 ```
 
-En la infowindow se añade HTML, y se mostrará como tal. Por tanto, podemos añadir clases CSS a ese HTML para estilizarlo:
+*TIP: consultar el GEOJSON para ver qué propiedades tiene cada elemento*
+
+En la infowindow se añade HTML y se mostrará como tal. Por tanto, podemos añadir clases CSS a ese HTML para estilizarlo:
 
 ```css
 
@@ -227,24 +228,26 @@ En la infowindow se añade HTML, y se mostrará como tal. Por tanto, podemos añ
   padding: 5px;
   background-color: #dedede;
   border-radius: 5px;
+  text-align: center
 }
 
 ```
 
 ```javascript
 .bindPopup(function (layer) {
-      return `<div class="infowindow"><h2>${layer.feature.properties.nom}</h2><p>${layer.feature.properties.description}</p><div>`;
+      return `<div class="infowindow"><h2>${layer.feature.properties.nombre}</h2>
+<h3>${layer.feature.properties.tipo}</h3><p>${layer.feature.properties.direccion}</p><div>`;
   })
 
 ```
 
 
-Añadiremos ahora un GEOJSON con polígonos:
+Añadiremos ahora un fichero GEOJSON con los barrios de Asunción (polígonos):
 
 
 ```javascript
 
-import { barrios } from './data/puntos.js';
+import { barrios } from './data/barrios.js';
 
 (...)
 
@@ -270,20 +273,20 @@ myControl.addOverlay(puntosLayer);
 Podemos personalizar la imagen de cada uno de los puntos, con una imagen propia:
 
 ```javascript
-import GEOCHICAS from './images/geochicas.png'
+import HEALTH from './images/health.png'
 
 
 // creamos el icono con la imagen
-  const myIcon = L.icon({
-    iconUrl: GEOCHICAS,
-    iconSize: [50, 40]
-  });
+    const healthIcon = L.icon({
+      iconUrl: HEALTH,
+      iconSize: [40, 30]
+    });
 
 // A la vez que vamos añadiendo cada punto al mapa
 // le asociamos el icono que hemos creado.
  const puntosLayer = L.geoJSON(puntos, {
       pointToLayer: function (feature, latlng) {
-        return  L.marker(latlng, {icon: myIcon});
+        return  L.marker(latlng, {icon: healthIcon});
       }
   })...
 ```
@@ -293,30 +296,122 @@ También podemos estilizar los poligonos, cambiando su color, opacidad, etc:
 ```javascript
   const barriosLayer = L.geoJSON(barrios, {
     style: function(){
-      return  { color: "#999", weight: 2, fillColor: '#FFCA3A', fillOpacity: .6 };;
+      return  { color: "#888", weight: 2, fillColor: '#8fb8ca', fillOpacity: .6 };;
     }
   });
 ```
 
 
-## HeatMap / Clustering
+## 4. Clustering
 
-Heatmap:
+A continuación vamos a añadir una capa de Cluster a nuestro mapa, para agrupar nuestros establecimientos de salud.
+Usaremos el siguiente plugin de leaflet:
+[Plugin cluster](https://github.com/Leaflet/Leaflet.markercluster)
 
-Add this in the html file:
+Añadimos los ficheros a nuestro index.html:
 
 ```html
-<script src="https://github.com/Leaflet/Leaflet.heat/blob/gh-pages/dist/leaflet-heat.js"></script>
+      <link href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" rel="stylesheet">
+      <link href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" rel="stylesheet">
+      <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+```
+
+```javascript
+  const markers = L.markerClusterGroup();
+  ...
+  const marker =  L.marker(latlng, {icon: healthIcon})
+  markers.addLayer(marker)
+
+```
+
+Dónde tendríamos que poner este código?
+
+**Solución**
+```javascript
+  const puntosLayer = L.geoJSON(puntos, {
+      pointToLayer: function (feature, latlng) {
+        const marker =  L.marker(latlng, {icon: healthIcon})
+        markers.addLayer(marker)
+        return marker;
+      }
+  })
+
 ```
 
 
+## 5. Turf.js - Operaciones GIS
+
+Turf.js es una libnrería javascript que nos permite hacer operaciones de análisis geospacial en el browser:
+
+>Advanced geospatial analysis for browsers and Node.js
+[turfjs.org](https://turfjs.org/)
+
+Para añadir la librería copia esto en tu index.html:
+
+```html
+<script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+```
+
+Consulta la cantidad de operaciones disponibles.
+
+**Ejercicio:**
+Usa la funcionalidad de cáclulo de [area](https://turfjs.org/docs/#area) para calcular el área de cada barrio, y hacer que se muestre en su infowindow.
+
+**Solución:**
+
+```javascript
+...
+.bindPopup(function ({feature}) {
+    const area = turf.area(feature.geometry).toFixed(2);
+    return `<div class="infowindow"><h2>${feature.properties.nombre}</h2><h3>${area} m2</h3><div>`;
+});
+```
+
+## 6. Publica tu mapa
+
+Para acabar vamos a publicar nuestro visor en github, haciendo uso de github pages.
+
+Ejecutamos:
+
+```node
+npm run dev
+```
+
+Esto nos creará una carpeta _'docs'_ con los ficheros finales dentro.
+>Si abrimos index.html de esa carpeta tendremos que ver nuestro visor final.
+
+Ahora vamos a publicarlo.
+
+En nuestro perfil de github, creamos un proyecto nuevo y seguimos los pasos para vincularlo a nuestro código:
+
+```node
+git init
+git add'-A
+git commit -m "first commit"
+git remote add origin _TU_URL_
+git push -u origin master
+```
+
+Ve a _Settings_, y hacia el final de la página verás:
+
+![]('./github-pages.png')
 
 
-Para improve de las explicaciones de cada punto:
+
+una vez seleccionado aparecerá la URL de tu visor.
+
+CONSEGUIDO! 
+![](http://gph.is/2zRmWco)
+
+-------
+
+## Reconocimientos
+Datos ejemplo de Paraguay:
+https://github.com/josego85/ProyectosBeta/tree/master/GIS/GeoJSON
+
 https://maptimeboston.github.io/leaflet-intro/
 
-
-
 http://osmtools.de/osmlinks/
-https://hackathon.innovando.gov.py/edicion-2018/datos-abiertos-publicados-por-la-municipalidad-de-asuncion
 
+## Licencia
+This project is licensed under the MIT License - see the LICENSE.md file for details

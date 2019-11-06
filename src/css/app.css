@@ -4,14 +4,3 @@ body {
  font-family: 'Roboto', sans-serif;
  text-align: center;
 }
-
-#mymap {
-  height: 100%;
-  width: 100%;
-}
-
-.infowindow {
-  padding: 5px;
-  background-color: #dedede;
-  border-radius: 5px;
-}
