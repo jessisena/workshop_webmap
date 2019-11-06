@@ -61,6 +61,10 @@ ya tendrás todo preparado para empezar el taller.
 
 6. Publica tu mapa
 
+
+
+La idea es tener finalmente algo parecido a [Visor establecimientos de SALUD](https://jessisena.github.io/workshop_webmap/)
+
 -----
 
 ## 1. Añadir Leaflet.js al proyecto
@@ -394,14 +398,13 @@ git push -u origin master
 
 Ve a _Settings_, y hacia el final de la página verás:
 
-![]('./github-pages.png')
-
+![](https://raw.githubusercontent.com/jessisena/workshop_webmap/master/github-pages.png)
 
 
 una vez seleccionado aparecerá la URL de tu visor.
 
 CONSEGUIDO! 
-![](http://gph.is/2zRmWco)
+![GIF](https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif)
 
 -------
 
