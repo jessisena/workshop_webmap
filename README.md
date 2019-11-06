@@ -63,7 +63,7 @@ ya tendrás todo preparado para empezar el taller.
 
 
 
-La idea es tener finalmente algo parecido a [Visor establecimientos de SALUD](https://jessisena.github.io/workshop_webmap/)
+>La idea es tener finalmente algo parecido a este [Visor establecimientos de SALUD](https://jessisena.github.io/workshop_webmap/)
 
 -----
 
@@ -398,12 +398,14 @@ git push -u origin master
 
 Ve a _Settings_, y hacia el final de la página verás:
 
-![](https://raw.githubusercontent.com/jessisena/workshop_webmap/master/github-pages.png=250x)
+<img src="https://raw.githubusercontent.com/jessisena/workshop_webmap/master/github-pages.png" alt="drawing" width="400"/>
 
 
 Selecciona **master branch /docs folder** 
 
-Una vez seleccionado aparecerá la URL de tu visor. CONSEGUIDO!
+Una vez seleccionado aparecerá la URL de tu visor.
+
+### CONSEGUIDO!
 
 
 ![GIF](https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif)
