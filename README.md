@@ -1,6 +1,8 @@
 
 # Workshop desarrollo de mapas web
 
+Workshop de desarrollo de un mapa web con HTML+Javascript+Leaflet.js. Nivel iniciación.
+
 ## Preparar entorno
 
 Tener instalado:
